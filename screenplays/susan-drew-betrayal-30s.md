@@ -63,7 +63,7 @@ Narrator (urgent → low decisive): I caught my fiancé wrapped around my own si
 [LIGHTING: Evening blue hour + warm porch → warm table-lamp spill vs shadowed hallway.]
 [ADDRESSEE: camera → self.]
 [VOICE TIMING: 0.0-7.2s | words: 27 | wpm: 225.0 | mode: promo]
-Narrator (hopeful → sudden, alarmed): Susan pulled into Jacob's driveway with a smile after two years abroad. At the study she heard a woman's voice. Susan froze. She knew that voice.
+Narrator (hopeful → sudden, alarmed): Susan pulled into Jacob's driveway with a smile after two years abroad. But at the study she heard a woman's voice. Susan froze. She knew that voice.
 [SFX: a car settles; Sophia’s laugh carries through the partly open door.]
 
 [SHOT: 0.0-3.0s | medium on Susan arriving | slow push-in]
