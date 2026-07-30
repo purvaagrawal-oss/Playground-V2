@@ -1,0 +1,596 @@
+{
+ "format": "1:1",
+ "total_runtime": 60.0,
+ "vo_url": null,
+ "assets": [
+  {
+   "name": "SusanBase",
+   "asset_type": "Character",
+   "ref_url": "",
+   "is_human": true
+  },
+  {
+   "name": "SusanTrenchCoat",
+   "asset_type": "Character",
+   "ref_url": "",
+   "is_human": true
+  },
+  {
+   "name": "SophiaShirt",
+   "asset_type": "Character",
+   "ref_url": "",
+   "is_human": true
+  },
+  {
+   "name": "Jacob",
+   "asset_type": "Character",
+   "ref_url": "",
+   "is_human": true
+  },
+  {
+   "name": "Ethan",
+   "asset_type": "Character",
+   "ref_url": "",
+   "is_human": true
+  }
+ ],
+ "locations": [
+  {
+   "name": "Location",
+   "norm": "LOCATION",
+   "ref_url": ""
+  },
+  {
+   "name": "JacobsDriveway (EXTERIOR)",
+   "norm": "JACOBSDRIVEWAY",
+   "ref_url": ""
+  },
+  {
+   "name": "SideHallway (INTERIOR)",
+   "norm": "SIDEHALLWAY",
+   "ref_url": ""
+  },
+  {
+   "name": "StudyDoorway (INTERIOR)",
+   "norm": "STUDYDOORWAY",
+   "ref_url": ""
+  },
+  {
+   "name": "StudyCorner (INTERIOR)",
+   "norm": "STUDYCORNER",
+   "ref_url": ""
+  },
+  {
+   "name": "CitySkyline (EXTERIOR)",
+   "norm": "CITYSKYLINE",
+   "ref_url": ""
+  }
+ ],
+ "shots": [
+  {
+   "n": "1",
+   "camera_angle": "Extreme close-up / insert",
+   "camera_movement": "Slow push-in",
+   "speaker": "SUSAN",
+   "dialogue": "I caught my fiancé wrapped around my own sister.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanBase",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Low pulse underscore; soft room tone",
+   "continuity": "Mouth closed (V.O.). Fragment tease of betrayal — faces soft-focus or partial. Warm lamp from screen-right.",
+   "vfx": "Soft vignette; slight chromatic edge for clickbait hook",
+   "gen_prompt": "Fragmented intimate betrayal tease: cream-trench silhouette of a woman in a doorway (SusanBase / SusanTrenchCoat identity), out-of-focus couple in a leather armchair — a younger woman in an oversized white shirt (SophiaShirt) on a man's lap (Jacob), his arms around her waist. Warm table lamp, wooden bookshelf, evening study. Dark cinematic short-form hook frame, 1:1.",
+   "anim_prompt": "Slow push-in on the doorway silhouette as the couple stays softly blurred in the background; mouth of Susan closed for V.O.; tension builds without revealing full faces yet.",
+   "action": "Cold-open hook: Susan's V.O. over a teasing glimpse of the betrayal."
+  },
+  {
+   "n": "2",
+   "camera_angle": "Medium close-up",
+   "camera_movement": "Static with subtle drift",
+   "speaker": "SUSAN",
+   "dialogue": "Then I found out my parents had been helping her all along. They thought my life was over.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanBase",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "SideHallway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Underscore deepens",
+   "continuity": "Mouth closed. Susan alone in hallway light — controlled rage under composure.",
+   "vfx": "Subtle light flicker",
+   "gen_prompt": "Susan Drew (SusanBase) standing alone in a hardwood hallway with white walls and framed artwork, soft ceiling lights, evening. Composed face cracking into quiet devastation; cream silk blouse base look. Cinematic shallow depth, 1:1.",
+   "anim_prompt": "Subtle camera drift; Susan's eyes lower then harden; mouth closed for V.O.; breath hitch.",
+   "action": "Hook continues: parents betrayal beat on Susan's face."
+  },
+  {
+   "n": "3",
+   "camera_angle": "Wide establishing",
+   "camera_movement": "Slow crane / rise",
+   "speaker": "SUSAN",
+   "dialogue": "Instead, I walked to the city's most untouchable billionaire... and made the most reckless decision of my life.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanBase",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "CitySkyline (EXTERIOR)",
+    "url": ""
+   },
+   "sfx": "City night ambience under VO",
+   "continuity": "Mouth closed. Susan small against glass towers; Ethan distant silhouette in penthouse light (no photoreal crowd plate).",
+   "vfx": "Bright fade-white pop into title",
+   "gen_prompt": "Night city skyline with glass towers; SusanBase in cream tones walking toward a lit penthouse tower; distant figure of Ethan in a sharp black suit behind floor-to-ceiling glass. Cold blue city vs warm tower lights. Punchy short-form establishing frame, 1:1.",
+   "anim_prompt": "Slow rise revealing the tower; Susan walks screen-left toward screen-right tower; mouths closed; cut energy into title.",
+   "action": "Hook climax: reckless decision toward Ethan."
+  },
+  {
+   "n": "4",
+   "camera_angle": "Medium close-up title beat",
+   "camera_movement": "Slow push-in",
+   "speaker": "SUSAN",
+   "dialogue": "I'm Susan Drew, and this is my story.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanBase",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "JacobsDriveway (EXTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft whoosh into story",
+   "continuity": "Mouth closed. Direct-to-camera energy without on-screen text. Porch lights warm.",
+   "vfx": "Gentle dissolve into story",
+   "gen_prompt": "Susan Drew (SusanBase) centered in evening driveway light outside a modern brick suburban house, looking into camera with resolve after devastation. Warm porch lights, trimmed hedges, blue-hour sky. No on-screen text. 1:1.",
+   "anim_prompt": "Slow push-in on Susan's eyes; mouth closed for V.O.; resolve settles on her face.",
+   "action": "Title identification beat (spoken, no captions)."
+  },
+  {
+   "n": "5",
+   "camera_angle": "Wide / medium wide",
+   "camera_movement": "Tracking with her",
+   "speaker": "",
+   "dialogue": "",
+   "is_vo": false,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "JacobsDriveway (EXTERIOR)",
+    "url": ""
+   },
+   "sfx": "Car door soft close; evening suburb ambience",
+   "continuity": "SusanTrenchCoat wardrobe lock. Smiling, hopeful. Evening blue hour. Key light = porch.",
+   "vfx": "",
+   "gen_prompt": "Modern suburban brick house, paved driveway, trimmed hedges, warm porch lights at evening. Susan (SusanTrenchCoat) in a cream double-breasted trench coat steps from a car onto the driveway, smiling with anticipation after two years abroad. Soft expectant energy. 1:1.",
+   "anim_prompt": "Tracking move following Susan as she closes the car and walks toward the porch; trench coat sways; smile brightens; no dialogue mouth movement.",
+   "action": "Susan arrives early as a surprise at Jacob's house."
+  },
+  {
+   "n": "6",
+   "camera_angle": "Medium close-up",
+   "camera_movement": "Tilt down then up",
+   "speaker": "SUSAN",
+   "dialogue": "He's going to completely lose it when he sees me.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "JacobsDriveway (EXTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft romantic underscore",
+   "continuity": "Mouth closed (V.O.). She glances down at the cream trench; secret lingerie beat stays suggestive, not explicit — coat stays closed.",
+   "vfx": "",
+   "gen_prompt": "Susan (SusanTrenchCoat) on the driveway, looking down at her cream trench coat wrapped around her body with a private smile, evening porch light catching the fabric. Tasteful, suggestive, coat fully closed. Same suburban house background. 1:1.",
+   "anim_prompt": "Tilt down to the cinched trench belt then back to her smile; mouth closed for V.O.; fingers brush the coat edge.",
+   "action": "She savors the surprise lingerie plan under the trench."
+  },
+  {
+   "n": "7",
+   "camera_angle": "Medium",
+   "camera_movement": "Dolly forward into door",
+   "speaker": "SUSAN",
+   "dialogue": "Everyone expected me home tomorrow, not today. I wanted this to be a surprise.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "JacobsDriveway (EXTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft door latch",
+   "continuity": "Mouth closed. Continues from driveway into entry — same evening, same coat.",
+   "vfx": "Dissolve into hallway",
+   "gen_prompt": "Susan (SusanTrenchCoat) walking up to the front door of the brick house, cream trench coat, warm porch lights, evening. She opens the door with a secret smile. 1:1.",
+   "anim_prompt": "Dolly forward as she enters; coat movement continuous; mouth closed for V.O.",
+   "action": "She enters the house for the surprise."
+  },
+  {
+   "n": "8",
+   "camera_angle": "Medium wide",
+   "camera_movement": "Steadicam follow",
+   "speaker": "",
+   "dialogue": "",
+   "is_vo": false,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "SideHallway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft footsteps on hardwood; quiet house",
+   "continuity": "Same trench, same evening. Hopeful body language. Hallway white walls + framed art.",
+   "vfx": "",
+   "gen_prompt": "Hardwood hallway with white walls, framed artwork, closed interior doors, soft warm ceiling lights. Susan (SusanTrenchCoat) walking deeper into the house toward Jacob's study, smiling to herself. Evening. 1:1.",
+   "anim_prompt": "Steadicam follows behind/beside her down the hallway; trench coat trails; anticipatory energy.",
+   "action": "She heads for Jacob's study."
+  },
+  {
+   "n": "9",
+   "camera_angle": "Close-up",
+   "camera_movement": "Slow push-in",
+   "speaker": "SUSAN",
+   "dialogue": "I'd throw open the door, drop the trench coat, and watch his jaw hit the floor.",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "SideHallway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft heartbeat underscore",
+   "continuity": "Mouth closed. Blush / fantasy beat on her face only — do not show explicit undress.",
+   "vfx": "Soft dreamlike glow",
+   "gen_prompt": "Close-up of Susan (SusanTrenchCoat) in the hallway, blushing as she imagines the surprise, cream trench still closed, soft ceiling light, evening. Intimate short-form close-up, 1:1.",
+   "anim_prompt": "Slow push-in; she bites a smile; mouth closed for V.O.; eyes bright with anticipation.",
+   "action": "She imagines the reveal; blushes."
+  },
+  {
+   "n": "10",
+   "camera_angle": "Medium",
+   "camera_movement": "Halt / micro whip",
+   "speaker": "SUSAN",
+   "dialogue": "Who the hell is that?",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "SideHallway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Muffled woman's laugh off-screen",
+   "continuity": "Mouth closed. Susan freezes mid-step. Sound source = study ahead screen-right.",
+   "vfx": "",
+   "gen_prompt": "Susan (SusanTrenchCoat) freezing mid-stride in the hardwood hallway as a woman's laugh echoes from ahead. Soft ceiling lights, evening. Shock replacing the smile. 1:1.",
+   "anim_prompt": "Camera halts with her; micro whip toward the study door direction; smile dies; mouth closed for V.O.",
+   "action": "She hears Sophia's voice and stops."
+  },
+  {
+   "n": "11",
+   "camera_angle": "Over-shoulder / doorway",
+   "camera_movement": "Creeping push through gap",
+   "speaker": "SOPHIA",
+   "dialogue": "You're impossible.",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyDoorway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft laugh; study room tone",
+   "continuity": "Susan screen-left at door, looking screen-right into study. Door slightly open. Warm lamp spill from screen-right. Sophia lip-syncs the line.",
+   "vfx": "",
+   "gen_prompt": "Wooden study door slightly open. From the hallway, Susan (SusanTrenchCoat) leans in over-shoulder. Through the gap: bookshelves, desk, leather chair, warm table lamp. Partial view of Sophia (SophiaShirt) laughing. Evening. 1:1.",
+   "anim_prompt": "Creeping push through the door gap; Sophia laughs and says the line with natural mouth movement; Susan's shoulder tense in foreground.",
+   "action": "Susan peeks; hears Sophia tease Jacob."
+  },
+  {
+   "n": "12",
+   "camera_angle": "Extreme close-up",
+   "camera_movement": "Static / micro push",
+   "speaker": "",
+   "dialogue": "",
+   "is_vo": false,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyDoorway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Silence drop under underscore",
+   "continuity": "Color drains — desaturated grade OK as VFX note only. Mouth closed. Eyes wide.",
+   "vfx": "Subtle desaturation pulse",
+   "gen_prompt": "Extreme close-up of Susan (SusanTrenchCoat) at the study doorway, color draining from her face as she recognizes her sister's voice. Cream trench collar visible. Warm lamp spill on one cheek. 1:1.",
+   "anim_prompt": "Micro push; eyes widen; breath stops; no spoken line.",
+   "action": "Recognition freeze — she knows that voice."
+  },
+  {
+   "n": "13",
+   "camera_angle": "Medium / reveal",
+   "camera_movement": "Slow reveal push",
+   "speaker": "",
+   "dialogue": "",
+   "is_vo": false,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft fabric rustle; intimate room tone",
+   "continuity": "KEY REVEAL. SophiaShirt on Jacob's lap; Jacob's arms around her waist. Susan POV from doorway screen-left looking screen-right. Warm lamp screen-right.",
+   "vfx": "",
+   "gen_prompt": "Study corner: leather armchair beside wooden bookshelf, decorative globe, side table, warm ambient lamp. Sophia (SophiaShirt) in an oversized white shirt sits on Jacob's lap with his arms wrapped around her waist. Intimate, damning. Evening. Susan's unseen POV. 1:1.",
+   "anim_prompt": "Slow reveal push into the couple; Sophia settles against him; Jacob's hands rest on her waist; continuous with doorway POV.",
+   "action": "The betrayal image: sister on fiancé's lap."
+  },
+  {
+   "n": "14",
+   "camera_angle": "Close-up reverse",
+   "camera_movement": "Handheld micro tremor",
+   "speaker": "SUSAN",
+   "dialogue": "No. This can't be happening. My fiancé... with my own sister?",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyDoorway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Heartbeat thump",
+   "continuity": "Mouth closed. Reverse on Susan — matched eyeline looking screen-right. She cannot move.",
+   "vfx": "",
+   "gen_prompt": "Close-up reverse of Susan (SusanTrenchCoat) outside the study door, devastated, unable to move, cream trench, warm spill light, evening. Matched eyeline into the room. 1:1.",
+   "anim_prompt": "Handheld micro tremor; she wants to scream but freezes; mouth closed for V.O.",
+   "action": "She wants to burst in but can't move."
+  },
+  {
+   "n": "15",
+   "camera_angle": "Medium two-shot",
+   "camera_movement": "Slow arc",
+   "speaker": "SOPHIA",
+   "dialogue": "I wish Susan had never come back.",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "SophiaShirt",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Intimate room tone",
+   "continuity": "Sophia leans back against Jacob's chest. Hate in her voice. Lip-sync Sophia. Jacob screen-right support. Warm lamp screen-right.",
+   "vfx": "",
+   "gen_prompt": "Sophia (SophiaShirt) leaning back against Jacob's chest in the leather armchair, oversized white shirt, warm study lamp, bookshelf and globe behind. Her expression turns cold with hate as she speaks. Evening. 1:1.",
+   "anim_prompt": "Slow arc around the armchair; Sophia leans back and delivers the line with clear mouth movement; Jacob holds her.",
+   "action": "Sophia confesses she wishes Susan never returned."
+  },
+  {
+   "n": "16",
+   "camera_angle": "Close two-shot",
+   "camera_movement": "Gentle push",
+   "speaker": "JACOB",
+   "dialogue": "We'll just have to keep sneaking around. That idiot will never figure it out though.",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "Jacob",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft kiss forehead SFX",
+   "continuity": "Jacob brushes hair behind Sophia's ear, kisses forehead, then speaks. Lip-sync Jacob. Same armchair staging. They laugh after.",
+   "vfx": "",
+   "gen_prompt": "Jacob brushing a strand of hair behind Sophia's (SophiaShirt) ear and kissing her forehead in the warm study corner, leather armchair, bookshelf, evening lamp. Smug intimacy. 1:1.",
+   "anim_prompt": "Gentle push as he kisses her forehead then speaks the line with natural mouth movement; both laugh.",
+   "action": "Jacob vows to keep sneaking; calls Susan an idiot."
+  },
+  {
+   "n": "17",
+   "camera_angle": "Medium",
+   "camera_movement": "Motivated settle",
+   "speaker": "SOPHIA",
+   "dialogue": "I have something to tell you! You can finally dump my freak of a sister. She won't be any use to you anymore.",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "SophiaShirt",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Soft clap; excited energy",
+   "continuity": "Sophia claps, excited. Same wardrobe/location. Lip-sync Sophia. Continuity of Jacob's arms.",
+   "vfx": "",
+   "gen_prompt": "Sophia (SophiaShirt) clapping her hands excitedly on Jacob's lap in the leather armchair study corner, oversized white shirt, warm lamp, evening. Cruel delight. 1:1.",
+   "anim_prompt": "She claps and leans forward with excited mouth movement delivering the lines; Jacob listens.",
+   "action": "Sophia says Jacob can dump Susan."
+  },
+  {
+   "n": "18",
+   "camera_angle": "Close-up",
+   "camera_movement": "Static",
+   "speaker": "JACOB",
+   "dialogue": "What do you mean?",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "Jacob",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Quiet beat",
+   "continuity": "Jacob raises eyebrow. Lip-sync Jacob. Same light from screen-right.",
+   "vfx": "",
+   "gen_prompt": "Close-up of Jacob raising an eyebrow, still holding Sophia (SophiaShirt) in the warm study, evening. Confused intrigue. 1:1.",
+   "anim_prompt": "Subtle head tilt; eyebrow raise; natural mouth movement on the line.",
+   "action": "Jacob asks what she means."
+  },
+  {
+   "n": "19",
+   "camera_angle": "Medium close-up",
+   "camera_movement": "Slow push-in",
+   "speaker": "SOPHIA",
+   "dialogue": "Dad is planning to transfer eighty percent of the company's shares to me.",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "SophiaShirt",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Low stinger under line",
+   "continuity": "Sophia beams proudly. Lip-sync. Keep identical shirt/armchair/lamp.",
+   "vfx": "Soft highlight bloom on her smile",
+   "gen_prompt": "Sophia (SophiaShirt) beaming proudly in the study armchair, oversized white shirt, warm lamp, telling Jacob about the eighty percent share transfer. Evening. 1:1.",
+   "anim_prompt": "Slow push-in on her proud smile; clear mouth movement on the shares line.",
+   "action": "Sophia drops the 80% shares bomb."
+  },
+  {
+   "n": "20",
+   "camera_angle": "Close two-shot",
+   "camera_movement": "Surge push",
+   "speaker": "JACOB",
+   "dialogue": "No way. / SOPHIA: Yes way. You don't have to pretend anymore. You don't have to stay with Susan.",
+   "is_vo": false,
+   "lip_sync": true,
+   "char_refs": [
+    {
+     "name": "Jacob",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyCorner (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "Rising tension sting",
+   "continuity": "Rapid exchange. Lip-sync both. Then Jacob grabs her face and kisses passionately — tasteful, not explicit.",
+   "vfx": "",
+   "gen_prompt": "Jacob staring in shock then grabbing Sophia's (SophiaShirt) face for a passionate kiss in the leather armchair study corner, warm lamp, bookshelf, evening. Same wardrobe continuity. 1:1.",
+   "anim_prompt": "He says \"No way\"; she answers \"Yes way...\" with mouth movement; he pulls her into a passionate kiss.",
+   "action": "Shares confirmed; they kiss — no more pretending."
+  },
+  {
+   "n": "21",
+   "camera_angle": "Extreme close-up → POV blur",
+   "camera_movement": "Dolly back / focus falloff",
+   "speaker": "SUSAN",
+   "dialogue": "Eighty percent? Dad is giving Sophia eighty percent of the company? Why? I gave that company everything. My health. My time. My whole life. Sophia hasn't done a damn thing, and she gets it?",
+   "is_vo": true,
+   "lip_sync": false,
+   "char_refs": [
+    {
+     "name": "SusanTrenchCoat",
+     "url": ""
+    }
+   ],
+   "loc_ref": {
+    "name": "StudyDoorway (INTERIOR)",
+    "url": ""
+   },
+   "sfx": "World-collapse low drone; soft ringing",
+   "continuity": "Mouth closed. Vision blurs. Susan screen-left. End Part 4 on her devastation — sets up parents/Ethan continuation. Warm spill still from study screen-right.",
+   "vfx": "Blur / rack to soft focus; gentle bright fade out",
+   "gen_prompt": "Extreme close-up of Susan (SusanTrenchCoat) at the study doorway as her vision blurs, cream trench, tears forming, warm lamp spill, evening. Devastation and betrayal. No on-screen text. 1:1.",
+   "anim_prompt": "Dolly back as focus softens and her eyes fill; mouth closed for long V.O.; gentle bright fade on the close.",
+   "action": "Susan's world collapses over the shares betrayal."
+  }
+ ]
+}

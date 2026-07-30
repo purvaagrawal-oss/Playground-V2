@@ -1,0 +1,43 @@
+QUEUE_ID: 04
+TITLE: Inside — Hope, Then a Voice
+TARGET_DURATION_SEC: 10
+TIMELINE: 0:30–0:40
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 4 of 6
+PACE RULE: Hallway only until the last seconds. One voice interrupt. No full study reveal yet.
+
+CHARACTERS:
+- SusanTrenchCoat ONLY on camera
+- SophiaShirt — voice only (off-screen laugh / line); not fully shown
+
+LOCATION (single):
+SideHallway INTERIOR evening — hardwood, white walls, framed artwork, closed doors, soft ceiling lights
+Final 2s: she reaches StudyDoorway (door slightly ajar) but does not push inside
+
+SCREEN_DIRECTION:
+Walking down hallway toward study SCREEN-RIGHT. Stops near door.
+
+DIALOGUE:
+SUSAN (V.O., mouth closed): I'd throw open the door, drop the trench coat, and watch his jaw hit the floor.
+SOPHIA (off-screen / through door, lip-sync if glimpsed): You're impossible.
+
+Spoken budget: Susan V.O. first ~5s; Sophia line last ~2s; middle reaction silence.
+
+SFX:
+Soft footsteps. Quiet house. Soft laugh off-screen. Heartbeat under freeze.
+
+=== GENERATION PROMPT ===
+Square 1:1. Hardwood hallway, white walls, framed art, soft warm ceiling lights, evening. Susan (SusanTrenchCoat) in cream trench walks toward a study, soft smile / blush as she imagines a surprise. Midway she freezes — a woman's laugh from ahead. She stops at a wooden door slightly open; warm lamp spill through the gap only. No clear view of anyone inside yet. Photoreal, tense turn.
+
+=== ANIMATION PROMPT ===
+0–5s: slow steadicam follow; she smiles/blushes; mouth closed for V.O. 5–7s: halt; smile dies; listen. 7–10s: lean toward door gap; hear “You're impossible”; do not enter; do not show the couple clearly. One location progression only.
+
+CONTINUITY:
+Same trench/face. Evening. Door ajar with lamp spill SCREEN-RIGHT for clips 05–06.
+
+NEGATIVES:
+no subtitles, no captions, no logos, no on-screen text, no full couple reveal, no coat drop, no explicit content, no identity drift, no second location jump
+
+ACTION BEAT (only this):
+Hopeful walk → hears Sophia → freezes at the door.

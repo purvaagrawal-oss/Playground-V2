@@ -1,0 +1,21 @@
+SUSAN BETRAYAL — 60s QUEUE (6 × 10s, evenly spaced)
+Format: 1:1 / 720x720
+Rule: one clear beat per clip. Do not overload.
+
+TIMEBASE
+0:00–0:10  01_hook_10s.txt              Hook tease — affair + parents V.O. (study doorway only)
+0:10–0:20  02_decision_title_10s.txt    Ethan decision V.O. + “I'm Susan Drew” face
+0:20–0:30  03_driveway_surprise_10s.txt Driveway surprise arrival (no interior yet)
+0:30–0:40  04_doorway_freeze_10s.txt    Hallway hope → hears Sophia → freeze at door
+0:40–0:50  05_betrayal_reveal_10s.txt   See them + hate line + sneaking line (no shares/kiss)
+0:50–1:00  06_shares_collapse_10s.txt   Shares bomb → kiss → Susan short collapse V.O.
+
+PACING NOTES
+- Each clip ≈ 1 location (02 has one soft cut: city → face)
+- ~1 slow camera move per clip
+- Spoken lines capped so picture can breathe (~2s hold at ends)
+- Longer original monologue trimmed in 06 so it fits 10s
+- “Dump my freak of a sister” clap beat omitted to avoid crowding 05/06
+
+QUEUE ORDER: 01 → 02 → 03 → 04 → 05 → 06
+STITCH: short dissolves; soft fade out on 06

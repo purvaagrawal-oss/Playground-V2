@@ -1,0 +1,46 @@
+QUEUE_ID: 06
+TITLE: Shares Bomb — Collapse
+TARGET_DURATION_SEC: 10
+TIMELINE: 0:50–1:00
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 6 of 6
+PACE RULE: One news drop, one kiss, one Susan collapse. Trim V.O. so it fits without rush.
+
+CHARACTERS:
+- SophiaShirt — proud, excited; same oversized white shirt
+- Jacob — shock then kiss; same wardrobe
+- SusanTrenchCoat — final close-up only
+
+LOCATION:
+StudyCorner same as 05 for dialogue/kiss
+Final 3s: StudyDoorway Susan close-up
+
+SCREEN_DIRECTION:
+Same as 05 — couple SCREEN-RIGHT, Susan SCREEN-LEFT, lamp SCREEN-RIGHT
+
+DIALOGUE (keep lean):
+SOPHIA (lip-sync): Dad is planning to transfer eighty percent of the company's shares to me.
+JACOB (lip-sync): No way.
+SOPHIA (lip-sync): Yes way. You don't have to stay with Susan.
+SUSAN (V.O., mouth closed): Eighty percent? I gave that company everything... and she gets it?
+
+Do NOT also play the longer “health / time / whole life / hasn't done a damn thing” full monologue in this clip — too many words for 10s. Keep the short collapse line above.
+
+SFX:
+Low stinger on shares. Tasteful kiss. Soft ringing + low drone on Susan blur. Gentle bright fade out.
+
+=== GENERATION PROMPT ===
+Square 1:1. Same warm evening study: leather armchair, bookshelf, globe, lamp. Sophia (SophiaShirt) on Jacob's lap beams as she tells him about an eighty-percent share transfer. Brief shock on Jacob, then a tasteful passionate kiss. Final image: extreme close-up of Susan (SusanTrenchCoat) at the doorway, cream trench, eyes filling, vision softening. No on-screen text. Photoreal gut-punch ending.
+
+=== ANIMATION PROMPT ===
+0–4s: Sophia delivers the shares line (lip-sync); slow push-in on her proud face. 4–6s: “No way” / “Yes way...” exchange; he kisses her (tasteful). 6–10s: cut to Susan close-up; dolly back / soft focus; mouth closed for short V.O.; gentle fade out. No extra business. No second location beyond doorway reverse.
+
+CONTINUITY:
+Identical staging/wardrobe/light to clip 05. End on devastated Susan.
+
+NEGATIVES:
+no subtitles, no captions, no logos, no on-screen text, no percentage graphics, no explicit sex, no long crowded dialogue, no identity drift, no screen-direction flip
+
+ACTION BEAT (only this):
+Shares bomb → kiss → Susan collapses.

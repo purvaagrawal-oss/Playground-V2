@@ -1,0 +1,41 @@
+QUEUE_ID: 01
+TITLE: Hook — The Betrayal Tease
+TARGET_DURATION_SEC: 10
+TIMELINE: 0:00–0:10
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 1 of 6
+PACE RULE: One location. One slow move. Short V.O. only. Do not rush.
+
+CHARACTERS:
+- SusanTrenchCoat — late 20s, dark brown shoulder-length hair, warm olive skin, cream trench coat, silhouette / partial face only
+- SophiaShirt + Jacob — soft-focus only in armchair; do not fully reveal faces
+
+LOCATION (single):
+StudyDoorway / StudyCorner INTERIOR evening — wooden door ajar, leather armchair, bookshelf, warm table lamp SCREEN-RIGHT
+
+SCREEN_DIRECTION:
+Susan SCREEN-LEFT in doorway looking SCREEN-RIGHT at blurred couple. Lamp from SCREEN-RIGHT.
+
+DIALOGUE (mouth CLOSED — V.O.):
+SUSAN (V.O.): I caught my fiancé wrapped around my own sister. Then I found out my parents had been helping her all along.
+
+Spoken budget: ~8s. Leave ~2s of picture-only tension at the end.
+
+SFX:
+Low pulse underscore. Soft room tone. No lyrics. No on-screen text.
+
+=== GENERATION PROMPT ===
+Square 1:1 cinematic cold open. Evening study. Cream-trench silhouette of a woman (SusanTrenchCoat) in a slightly open wooden doorway SCREEN-LEFT. Deeper SCREEN-RIGHT, out-of-focus couple in a leather armchair: woman in oversized white shirt on a man's lap, his arms around her waist. Warm tungsten lamp from SCREEN-RIGHT, wooden bookshelf, shallow depth, soft vignette. Faces of the couple stay soft. Photoreal, slow, tense. No captions.
+
+=== ANIMATION PROMPT ===
+Single slow push-in for the full 10 seconds from doorway toward the blurred couple. Susan mouth closed. Almost no other action. Hold the last 2 seconds nearly still on the tease. Do not cut. Do not introduce city, hallway, or other locations.
+
+CONTINUITY:
+Evening. Warm lamp SCREEN-RIGHT. Cream trench. Soft-focus couple.
+
+NEGATIVES:
+no subtitles, no captions, no logos, no on-screen text, no hard cuts, no city skyline, no explicit content, no identity drift, no extra limbs
+
+ACTION BEAT (only this):
+Hook tease of the affair under Susan's opening V.O.

@@ -1,0 +1,175 @@
+HOW WE WRITE THE SCREENPLAY (FOR AI)
+Purpose: turn a prose story into a 60-second generation screenplay the model can follow exactly.
+Runtime rule: 60 seconds total = 6 SETs × 10.0s each.
+Do not improvise locations, characters, or plot beyond the source.
+
+════════════════════════════════════════════════════════════════
+1) OUTPUT SHAPE
+════════════════════════════════════════════════════════════════
+Write in this exact nesting:
+
+[SCENE: N - INT./EXT. LOCATION NAME - TIME_OF_DAY   [@LocationTag]]
+
+  [SET: N.M - 10.0s | mode: ... | GENRE | register: ... | mode: ... | intent | key_beat: ... | subject_focus: ... | coverage: ...]
+    [SHOT: start-end | framing on subject | move]
+    [SHOT: ...]
+    [SHOT: ...]
+    [VISUAL: ...]
+    [CAMERA: ...]
+    [LIGHTING: ...]
+    [ADDRESSEE: ...]
+    [VOICE TIMING: start-end | words: N | wpm: N | mode: ...]
+    Speaker (tone): line
+    [SFX: ...]
+
+Rules:
+- One SCENE can hold multiple SETs.
+- Every SET is exactly 10.0s.
+- Every SET has exactly 3 SHOTS, timed 0.0-3.0s / 3.0-6.0s / 6.0-10.0s unless the beat truly needs a different split (default to this).
+- Keep spoken words inside VOICE TIMING (target ~220–230 wpm, usually ≤ ~30 words per SET).
+
+════════════════════════════════════════════════════════════════
+2) TAGS THE AI MUST PRESERVE
+════════════════════════════════════════════════════════════════
+Characters / wardrobe locks
+  [@SusanTrenchCoat]  Susan in cream trench (closed)
+  [@SophiaShirt]      Sophia in Jacob’s oversized white shirt
+  [@Jacob]            fiancé
+  [@Ethan]            billionaire — only show if a location for him is source-stated
+
+Locations
+  [@JacobsDriveway]   exterior home / porch / driveway
+  [@StudyDoorway]     hallway side of the study door
+  [@StudyCorner]      inside study / armchair area
+
+Always write people and places with these @tags in VISUAL lines.
+
+════════════════════════════════════════════════════════════════
+3) WHAT EACH FIELD MEANS (WRITE THIS WAY)
+════════════════════════════════════════════════════════════════
+SET header
+  mode: promo              → short-form hook energy, not feature pacing
+  ROMANTASY                → genre lane
+  register: BETRAYED | DANGEROUS | YEARNING | ...
+                           → emotional color for generation
+  mode: REVEAL | BETRAYAL | ROMANTIC_BEAT | ...
+                           → story function of this 10s
+  key_beat:                → one sentence: the only job of this SET
+  subject_focus:           → who the camera privileges (referent / speaker)
+  coverage:                → allowed framings (close-up, OTS, medium, reaction, insert)
+
+SHOT
+  framing + subject + camera move only
+  Example: [SHOT: 0.0-3.0s | close-up on Susan | crash push-in]
+  Do not put dialogue inside SHOT.
+
+VISUAL
+  One concrete staging sentence with @tags.
+  Say who is where, what is seen, what is withheld.
+  Example pattern:
+  At [@Location], NAME [@Tag] does ACTION; OTHER [@Tag] remains unseen / apart / ...
+
+CAMERA
+  How the 3 shots connect (cut pattern / eyeline).
+  Prefer: single → insert → reaction, or OTS reveal → reaction.
+
+LIGHTING
+  Only from source (evening, porch, warm table lamp, etc.).
+  Do not invent neon / daylight / new practicals.
+
+ADDRESSEE
+  Who the moment is aimed at: camera | self | Jacob | ...
+
+VOICE TIMING
+  Exact window the line must fit.
+  Count words. Keep WPM near 225.
+  If too long: cut words, do not stretch the SET past 10s.
+
+Line
+  Narrator (...) : for V.O. / promo narration
+  Character (...) : for on-screen or heard speech
+  Tone in parentheses: urgent, betrayed / hopeful, intimate / etc.
+
+SFX
+  1–2 light cues. No music lyrics. No caption text.
+
+════════════════════════════════════════════════════════════════
+4) WRITING PRINCIPLES (WHY WE WRITE IT LIKE THIS)
+════════════════════════════════════════════════════════════════
+1. One job per 10s
+   Each SET has one key_beat. Do not also do arrival + full reveal + shares news in the same SET.
+
+2. Withhold until the reveal SET
+   Early SETs can imply betrayal through Susan’s face / a door insert.
+   Do not fully show Jacob+Sophia until the discovery SET.
+
+3. Keep Susan spatially apart from the couple
+   She stays at threshold / doorway.
+   No shared cozy two-shot that softens the betrayal.
+
+4. Do not invent off-source geography
+   If Ethan has no source location in that beat, invoke him in narration only — do not spawn a city/penthouse plate.
+
+5. Picture carries; voice supports
+   Write VISUAL + CAMERA first, then fit narration to VOICE TIMING.
+   Never let VO force extra locations or extra actions.
+
+6. Coverage stays simple
+   Default 3-shot rhythm inside each 10s:
+   establish/subject → insert or OTS information → reaction/hold
+
+════════════════════════════════════════════════════════════════
+5) CANONICAL 60s BEAT MAP (WRITE IN THIS ORDER)
+════════════════════════════════════════════════════════════════
+SET 1.1 (0–10)  register:BETRAYED   mode:REVEAL
+  key_beat: Susan reveals/implies the betrayal (reaction-first; couple unseen)
+  VO: caught fiancé with sister + parents helping + life over
+
+SET 1.2 (10–20) register:DANGEROUS  mode:REVEAL
+  key_beat: Susan chooses Ethan (decision/promise; Ethan not shown unless located)
+  VO: untouchable billionaire + reckless decision + I’m Susan Drew
+
+SET 1.3 (20–30) register:YEARNING   mode:ROMANTIC_BEAT
+  key_beat: Susan arrives to surprise Jacob (hope before rupture)
+  VO: pulls into driveway smiling / two years abroad
+
+SET 1.4 (30–40) register:DANGEROUS  mode:REVEAL
+  key_beat: Susan recognizes Sophia’s voice at the study door
+  VO: hears a woman → “Who the hell is that?” → “You’re impossible” → she knows that voice
+
+SET 1.5 (40–50) register:BETRAYED   mode:BETRAYAL
+  key_beat: Susan sees Jacob and Sophia
+  VO: it was Sophia / oversized shirt / on his lap / forgot how to breathe
+
+SET 1.6 (50–60) register:BETRAYED   mode:BETRAYAL
+  key_beat: Sophia wants Susan gone
+  Line: “I wish Susan had never come back” + Jacob forehead kiss
+  Hold Susan’s wound; do not also dump the shares plot into this SET unless a later SCENE covers it
+
+════════════════════════════════════════════════════════════════
+6) MINI EXAMPLE (HOW A SET SHOULD LOOK)
+════════════════════════════════════════════════════════════════
+[SET: 1.5 - 10.0s | mode: promo | ROMANTASY | register: BETRAYED | mode: BETRAYAL | show the discovery, then hold on Susan’s devastated reaction | key_beat: Susan sees Jacob and Sophia | subject_focus: referent | coverage: OTS, reaction, close-up]
+[SHOT: 0.0-3.0s | OTS through the doorway | locked]
+[SHOT: 3.0-6.0s | close-up on Susan | crash push-in]
+[SHOT: 6.0-10.0s | medium on Jacob and Sophia | locked]
+[VISUAL: In [@StudyCorner], SUSAN [@SusanTrenchCoat] looks through the doorway and sees SOPHIA [@SophiaShirt] in JACOB’s [@Jacob] oversized shirt, seated on Jacob’s lap with his arms around her waist; Susan remains apart at the threshold.]
+[CAMERA: Reveal the couple through Susan’s eyeline, then cut to her breathless reaction; no shared frame softens the betrayal.]
+[LIGHTING: Source states warm ambient study lighting; preserve it as a warm practical against the doorway shadow.]
+[ADDRESSEE: camera.]
+[VOICE TIMING: 0.0-7.83s | words: 30 | wpm: 229.9 | mode: promo]
+Narrator (shattered, controlled): It was Sophia. Her sister. Sophia was wearing one of Jacob's oversized shirts and sitting on his lap with his arms wrapped around her waist. Susan forgot how to breathe.
+[SFX: a breath catches; faint fabric movement inside the study.]
+
+════════════════════════════════════════════════════════════════
+7) AI CHECKLIST BEFORE FINISHING
+════════════════════════════════════════════════════════════════
+[ ] 6 SETs × 10.0s = 60s
+[ ] Each SET has 3 SHOTS + VISUAL + CAMERA + LIGHTING + ADDRESSEE + VOICE TIMING + SFX
+[ ] @character and @location tags present in VISUAL
+[ ] One key_beat only per SET
+[ ] Spoken words fit VOICE TIMING / ~225 wpm
+[ ] No invented locations
+[ ] Couple fully revealed only in the discovery SET
+[ ] Susan kept apart from lovers’ frame in betrayal SETs
+[ ] No on-screen captions/logos/text
