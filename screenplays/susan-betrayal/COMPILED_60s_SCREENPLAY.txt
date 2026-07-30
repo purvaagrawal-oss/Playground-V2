@@ -1,100 +1,205 @@
-SUSAN DREW BETRAYAL — FLAWLESS 60-SECOND SCREENPLAY
+SUSAN DREW BETRAYAL — DETAILED 60-SECOND SCREENPLAY (GENERATION-READY)
 Runtime: 60.0s = 6 SETs × 10.0s | Format: 1:1 / 720x720 | Genre: ROMANTASY | mode: promo
-Writing contract: SCENE → SET → 3 SHOTS → VISUAL → CAMERA → LIGHTING → ADDRESSEE → VOICE TIMING → line → SFX
+Each SHOT carries skill-style GENERATION + ANIMATION prompts (verbatim cores for Seedance).
+Mouth rule: Narrator V.O. = mouth closed; on-screen speech only when marked lip-sync.
 
-CONTINUITY LOCKS
-- [@SusanTrenchCoat] cream trench CLOSED every SET · same face/hair
-- [@SophiaShirt] oversized white shirt · on Jacob’s lap when shown
-- [@Jacob] arms around Sophia’s waist when shown
-- [@Ethan] narration only in this SCENE — do not put on screen
-- Couple FULLY revealed only in SET 1.5 · withheld in 1.1–1.4
-- Susan stays APART at threshold in 1.5–1.6 · no shared cozy frame
-- Evening only · warm porch / warm study lamp · no captions/text/logos
+SHARED CONTINUITY BLOCK (append / honor on EVERY shot)
+Continuity: keep the SAME location, environment, architecture, spatial layout, weather, time of day, props and background as neighbouring shots — only camera framing and character action change. Keep character appearance, wardrobe, mood and lighting identical to references; no drift. Maintain the established 180-degree line and screen direction. Continue action seamlessly from the previous shot — preserve body momentum, pose, hands, expression; do not restart, repeat or skip. Follow the storyboard exactly. Cinematic short-form hook energy. Output 1:1, 720x720.
+
+SHARED NEGATIVES (every shot)
+no subtitles, no captions, no watermarks, no logos, no on-screen text, no duplicated cast likenesses, no extreme eyeball close-up, no disembodied or glowing eye, no gore, no explicit nudity, no lingerie reveal, no coat opening, no extra limbs, no identity drift
+
+CHARACTER LOCKS
+[@SusanTrenchCoat] late 20s, dark brown shoulder-length hair, warm olive skin, cream double-breasted trench CLOSED + cinched
+[@SophiaShirt] mid-20s, honey-blonde loose hair, oversized white men’s dress shirt, sleeves rolled, hem mid-thigh
+[@Jacob] early 30s, short styled brown hair, light stubble, expensive knit / open collar
+[@Ethan] narration only in this SCENE — never on screen
+
+EYELINE BIBLE (SETS 1.4–1.6)
+Susan outside door = SCREEN-LEFT looking SCREEN-RIGHT into study
+Couple in armchair = deeper SCREEN-RIGHT
+Warm table lamp key = SCREEN-RIGHT
+Never flip the 180° line
 
 ════════════════════════════════════════════════════════════════
 [SCENE: 1 - INT./EXT. JACOB'S HOME AND STUDY - EVENING]
 
+────────────────────────────────────────────────────────────────
 [SET: 1.1 - 10.0s | mode: promo | ROMANTASY | register: BETRAYED | mode: REVEAL | hook opens on betrayal; keep Susan and the unseen couple separated | key_beat: Susan reveals the betrayal | subject_focus: referent | coverage: close-up, insert, reaction]
-[SHOT: 0.0-3.0s | close-up on Susan | crash push-in]
-[SHOT: 3.0-6.0s | insert on the partly open study door | locked]
-[SHOT: 6.0-10.0s | reaction close-up on Susan | hold]
-[VISUAL: At [@JacobsDriveway], SUSAN [@SusanTrenchCoat] stands outside JACOB’s [@Jacob] home in evening porch light, stunned; the betrayal she has discovered collapses her certainty. The couple stays unseen — only a cutaway to the partly open study door implies what she found.]
-[CAMERA: Hook on Susan’s stunned single; cut to the door insert; return to her reaction hold. Do not show Sophia or Jacob on screen in this SET.]
-[LIGHTING: Evening. Warm porch practicals; door insert keeps warm interior spill against shadowed contrast.]
+[VISUAL: At [@JacobsDriveway], SUSAN [@SusanTrenchCoat] stands outside JACOB’s [@Jacob] home in evening porch light, stunned; the betrayal she discovered collapses her certainty. Couple remains unseen — only a door cutaway implies it.]
+[CAMERA: Stunned single → door insert → reaction hold.]
+[LIGHTING: Evening warm porch practicals; door insert = warm interior spill vs shadow.]
 [ADDRESSEE: camera.]
 [VOICE TIMING: 0.0-7.2s | words: 27 | wpm: 225.0 | mode: promo]
 Narrator (urgent, betrayed): I caught my fiancé wrapped around my own sister. Then I found out my parents had been helping her all along. They thought my life was over.
 [SFX: faint evening ambience; a held breath.]
 
+[SHOT: 0.0-3.0s | close-up on Susan | crash push-in]
+[GENERATION]: Square 1:1 photoreal close-up of SUSAN [@SusanTrenchCoat] outside a modern brick suburban house at evening. Cream double-breasted trench coat closed at the collar, dark brown shoulder-length hair, warm olive skin, eyes wide with betrayal shock, mouth closed for V.O. Warm golden porch light on one cheek, soft blue-hour fill behind her, shallow depth, punchy short-form hook frame. No other people. No captions.
+[ANIMATION]: Hard crash push-in from medium-close to tight close-up in 3.0s. Micro tremor in the frame. Eyes locked toward camera/addressee; mouth closed except natural breath; pupils tighten; color slightly drains. Do not smile. Do not show the couple.
+[CONTINUITY]: Driveway exterior evening; trench closed; face lock for all later Susan shots.
+[ACTION]: Hook reaction — betrayal lands on her face.
+
+[SHOT: 3.0-6.0s | insert on the partly open study door | locked]
+[GENERATION]: Square 1:1 photoreal insert of a wooden study door slightly ajar inside the house. Narrow vertical gap. Warm tungsten table-lamp spill leaking through the opening onto hardwood and a hint of bookshelf edge. No faces visible through the gap — withhold Sophia and Jacob completely. Shadowed hallway around the door. Evening interior practical only. No captions.
+[ANIMATION]: Locked off / almost static for 3.0s. Tiny flicker of lamp spill in the gap. Optional micro creep of 1–2cm toward the gap without revealing anyone. No hands entering frame. No silhouettes of the couple.
+[CONTINUITY]: This door geometry must match SET 1.4–1.6 doorway. Warm spill from SCREEN-RIGHT side of the room beyond.
+[ACTION]: Information insert — the scene of the crime implied, not shown.
+
+[SHOT: 6.0-10.0s | reaction close-up on Susan | hold]
+[GENERATION]: Square 1:1 photoreal reaction close-up of SUSAN [@SusanTrenchCoat] at [@JacobsDriveway], same cream trench and face as shot 1. Shock hardening into hollow devastation. Warm porch light, evening, shallow depth. Mouth closed for V.O. No tears flood yet — controlled collapse. No captions.
+[ANIMATION]: Hold with tiny push (almost locked). Breath hitch; swallow; eyes lower a fraction then return. Mouth closed. Last 1s nearly still as VO finishes. Match eyeline/energy from first shot; do not restart the crash-in.
+[CONTINUITY]: Same driveway, wardrobe, face, evening grade as 0.0-3.0s.
+[ACTION]: Reaction hold after the door insert.
+
+────────────────────────────────────────────────────────────────
 [SET: 1.2 - 10.0s | mode: promo | ROMANTASY | register: DANGEROUS | mode: REVEAL | Susan’s choice turns betrayal into a dangerous promise | key_beat: Susan chooses Ethan | subject_focus: referent | coverage: close-up, insert, reaction]
-[SHOT: 0.0-3.0s | close-up on Susan | slow push-in]
-[SHOT: 3.0-6.0s | insert on Susan’s clenched hand | locked]
-[SHOT: 6.0-10.0s | close-up on Susan | hold]
-[VISUAL: At [@JacobsDriveway], SUSAN [@SusanTrenchCoat] closes one hand into a fist, turning shock into a private decision. ETHAN [@Ethan] is named only in narration — do not show him; no city or penthouse plate.]
-[CAMERA: Tight withheld singles only. Hand insert, then hold on Susan’s resolve. Do not invent Ethan’s presence.]
-[LIGHTING: Evening. Warm porch practicals with shadowed contrast.]
+[VISUAL: At [@JacobsDriveway], SUSAN [@SusanTrenchCoat] closes one hand into a fist, turning shock into a private decision. ETHAN [@Ethan] is named only in narration — do not show him; no city/penthouse plate.]
+[CAMERA: Resolve close-up → clenched-hand insert → resolve hold.]
+[LIGHTING: Evening warm porch practicals with shadowed contrast.]
 [ADDRESSEE: camera.]
 [VOICE TIMING: 0.0-6.8s | words: 26 | wpm: 229.4 | mode: promo]
 Narrator (low, decisive): Instead, I walked to the city's most untouchable billionaire and made the most reckless decision of my life. I'm Susan Drew, and this is my story.
 [SFX: Susan’s breath steadies.]
 
+[SHOT: 0.0-3.0s | close-up on Susan | slow push-in]
+[GENERATION]: Square 1:1 photoreal close-up of SUSAN [@SusanTrenchCoat] at [@JacobsDriveway] evening. Same cream trench, same face. Shock cooling into dangerous resolve; jaw set; eyes focused; mouth closed for V.O. Warm porch key light, soft shadow under cheekbone, shallow depth. No Ethan. No city skyline. No captions.
+[ANIMATION]: Slow push-in over 3.0s. Breath steadies; micro tension in jaw; gaze hardens toward camera. Mouth closed. No smile. No tears streaming.
+[CONTINUITY]: Continues from SET 1.1 reaction; same driveway night; trench closed.
+[ACTION]: Decision begins behind the eyes.
+
+[SHOT: 3.0-6.0s | insert on Susan’s clenched hand | locked]
+[GENERATION]: Square 1:1 photoreal insert of SUSAN’s right hand [@SusanTrenchCoat] closing into a fist at her side. Cream trench cuff and sleeve visible. Skin tone matches Susan. Soft evening porch light; brick / hedge bokeh behind. No jewelry gimmicks; no on-screen text; no other people.
+[ANIMATION]: Locked framing. Fingers slowly close from open/loose to a tight fist over ~2.0s, then hold pressure for the remaining second — knuckles tense, slight tendon flex. No cutaways. No hand entering from wrong side.
+[CONTINUITY]: Same evening driveway; belongs to Susan from previous shot; coat cuff cream.
+[ACTION]: Body converts betrayal into vow.
+
+[SHOT: 6.0-10.0s | close-up on Susan | hold]
+[GENERATION]: Square 1:1 photoreal close-up of SUSAN [@SusanTrenchCoat] at [@JacobsDriveway], looking into camera with quiet lethal resolve after devastation. Cream trench collar frame. Warm porch light. Mouth closed for “I'm Susan Drew...” V.O. No name graphics. No Ethan. No captions.
+[ANIMATION]: Near-locked hold with tiny push-in. Eyes steady; one controlled blink; mouth closed; final 2s almost still as identity line lands. Do not invent a title card.
+[CONTINUITY]: Same face/wardrobe/location as first shot of this SET; fist energy carried in posture.
+[ACTION]: Identity / promise close.
+
+────────────────────────────────────────────────────────────────
 [SET: 1.3 - 10.0s | mode: promo | ROMANTASY | register: YEARNING | mode: ROMANTIC_BEAT | establish Susan’s hopeful return before the betrayal ruptures it | key_beat: Susan arrives to surprise Jacob | subject_focus: referent | coverage: medium, close-up, insert]
-[SHOT: 0.0-3.0s | medium on Susan arriving | slow push-in]
-[SHOT: 3.0-6.0s | close-up on Susan’s hopeful face | hold]
-[SHOT: 6.0-10.0s | insert on the driveway approach | locked]
 [VISUAL: At [@JacobsDriveway], SUSAN [@SusanTrenchCoat] arrives with a smile after two years abroad, cream trench closed, moving toward JACOB’s [@Jacob] home unaware of what waits inside.]
-[CAMERA: Begin in medium geography, tighten to her hopeful face, end on driveway approach insert. No interior yet. No other characters on screen.]
-[LIGHTING: Evening blue hour. Warm porch lights; soft ambient sky.]
+[CAMERA: Medium arrival → hopeful face → driveway approach insert.]
+[LIGHTING: Evening blue hour; warm porch lights.]
 [ADDRESSEE: camera.]
 [VOICE TIMING: 0.0-6.0s | words: 23 | wpm: 230.0 | mode: promo]
 Narrator (hopeful, intimate): Susan pulled into her fiancé Jacob's driveway with a smile. After spending two years abroad, she couldn't wait to make love to him.
 [SFX: a car settles in the driveway; distant evening ambience.]
 
+[SHOT: 0.0-3.0s | medium on Susan arriving | slow push-in]
+[GENERATION]: Square 1:1 photoreal medium shot at [@JacobsDriveway] evening blue hour. Modern brick façade, paved driveway, trimmed hedges, warm porch lights. SUSAN [@SusanTrenchCoat] stepping from a dark car in cream double-breasted trench (fully closed, cinched), soft expectant smile, travel-soft hair. Same face as prior SETs but hopeful register. No other characters. No captions.
+[ANIMATION]: Slow push-in as she steps out and closes the car door. Coat sways naturally. Smile brightens. Mouth closed for V.O. Continuous outdoor geography only.
+[CONTINUITY]: Same house exterior used in 1.1–1.2; flashback-hope tone; trench identical.
+[ACTION]: Hopeful arrival begins.
+
+[SHOT: 3.0-6.0s | close-up on Susan’s hopeful face | hold]
+[GENERATION]: Square 1:1 photoreal close-up of SUSAN [@SusanTrenchCoat] smiling with intimate anticipation, cream trench collar visible, warm porch light in eyes, evening blue-hour bokeh. Soft yearning, not comedy. Mouth closed for V.O. No lingerie reveal. No captions.
+[ANIMATION]: Hold with tiny drift. Soft smile; eyes bright; one shy breath; mouth closed. Do not cut to interior. Do not show Jacob.
+[CONTINUITY]: Same face/wardrobe as arrival shot; hopeful register only.
+[ACTION]: Romantic yearning on her face.
+
+[SHOT: 6.0-10.0s | insert on the driveway approach | locked]
+[GENERATION]: Square 1:1 photoreal insert / medium-wide of the paved driveway approach to the brick house: trimmed hedges, warm porch glow reflecting on pavement, evening blue-hour sky. SUSAN [@SusanTrenchCoat] visible mid-ground walking toward the porch, cream trench closed, back/three-quarter angle acceptable. Quiet affluent suburb. No other people. No captions.
+[ANIMATION]: Locked or micro-track following her walk toward the porch for 4.0s. Footsteps implied; coat movement continuous from prior shot. End before she enters the house.
+[CONTINUITY]: Same property; still exterior only; leads emotionally into interior SETs later.
+[ACTION]: She approaches the home, still hopeful.
+
+────────────────────────────────────────────────────────────────
 [SET: 1.4 - 10.0s | mode: promo | ROMANTASY | register: DANGEROUS | mode: REVEAL | the woman’s voice stops Susan at the threshold | key_beat: Susan recognizes Sophia’s voice | subject_focus: referent | coverage: close-up, OTS, reaction]
-[SHOT: 0.0-3.0s | close-up on Susan at the study door | locked]
-[SHOT: 3.0-6.0s | OTS on the door opening | slow push-in]
-[SHOT: 6.0-10.0s | reaction close-up on Susan | hold]
-[VISUAL: At [@StudyDoorway], SUSAN [@SusanTrenchCoat] stops at the slightly open study door, leans closer, and freezes as SOPHIA’s [@SophiaShirt] voice reaches her from inside. Through the gap: warm lamp spill only — no clear view of the couple yet.]
-[CAMERA: Susan’s close single → narrow door opening OTS → recognition reaction. Lock eyeline for later SETs: Susan outside the door looking in. Do not fully reveal Jacob or Sophia.]
-[LIGHTING: Evening. Warm table-lamp spill from inside against shadowed hallway.]
+[VISUAL: At [@StudyDoorway], SUSAN [@SusanTrenchCoat] stops at the slightly open study door, leans closer, and freezes as SOPHIA’s [@SophiaShirt] voice reaches her from inside. Through the gap: warm lamp spill only — no clear couple reveal.]
+[CAMERA: Door close single → OTS gap push → recognition reaction.]
+[LIGHTING: Warm table-lamp spill from inside vs shadowed hallway.]
 [ADDRESSEE: self.]
 [VOICE TIMING: 0.0-7.83s | words: 30 | wpm: 229.9 | mode: promo]
 Narrator (sudden, alarmed): But as she reached the study, she heard a woman's voice. Who the hell is that? "You're impossible," the woman said with a laugh. Susan froze. She knew that voice.
 [SFX: Sophia’s laugh carries through the partly open door.]
 
-[SET: 1.5 - 10.0s | mode: promo | ROMANTASY | register: BETRAYED | mode: BETRAYAL | show the discovery, then hold on Susan’s devastated reaction | key_beat: Susan sees Jacob and Sophia | subject_focus: referent | coverage: OTS, reaction, close-up]
-[SHOT: 0.0-3.0s | OTS through the doorway | locked]
-[SHOT: 3.0-6.0s | close-up on Susan | crash push-in]
-[SHOT: 6.0-10.0s | medium on Jacob and Sophia | locked]
-[VISUAL: In [@StudyCorner], SUSAN [@SusanTrenchCoat] looks through the doorway and sees SOPHIA [@SophiaShirt] in JACOB’s [@Jacob] oversized shirt, seated on Jacob’s lap with his arms around her waist; Susan remains apart at the threshold.]
-[CAMERA: Reveal the couple through Susan’s eyeline, then cut to her breathless reaction, then a locked medium on the lovers. No shared frame softens the betrayal. Keep Susan outside.]
-[LIGHTING: Warm ambient study lamp practical against doorway shadow.]
+[SHOT: 0.0-3.0s | close-up on Susan at the study door | locked]
+[GENERATION]: Square 1:1 photoreal close-up of SUSAN [@SusanTrenchCoat] at [@StudyDoorway] evening. Hardwood hallway, white wall edge, cream trench, face turning from soft hope to alert suspicion as she hears a woman. Warm lamp spill from the door gap kisses one cheek. Mouth closed for V.O. No clear view of anyone inside. No captions.
+[ANIMATION]: Locked / micro-hold. Smile dies; head tilts a degree toward the door; eyes sharpen; breath stops. Mouth closed. Do not open the door wider.
+[CONTINUITY]: Establish Susan SCREEN-LEFT of door looking SCREEN-RIGHT; trench closed; evening.
+[ACTION]: Voice stops her at the threshold.
+
+[SHOT: 3.0-6.0s | OTS on the door opening | slow push-in]
+[GENERATION]: Square 1:1 photoreal over-shoulder from hallway toward the partly open wooden study door [@StudyDoorway]. Susan’s cream-trench shoulder / hair edge in foreground SCREEN-LEFT. Through the narrow gap: warm tungsten lamp spill, bookshelf edge, maybe leather chair hint — NO readable faces of Sophia or Jacob. Shadowed hallway surround. Evening. No captions.
+[ANIMATION]: Slow push-in through/toward the gap over 3.0s. Soft off-screen laugh syncs to motion. Do not cross inside. Do not resolve the couple’s faces. Keep gap narrow.
+[CONTINUITY]: Same door as SET 1.1 insert; lamp spill SCREEN-RIGHT beyond door; Susan remains outside.
+[ACTION]: Peek without discovery payoff yet.
+
+[SHOT: 6.0-10.0s | reaction close-up on Susan | hold]
+[GENERATION]: Square 1:1 photoreal reaction close-up of SUSAN [@SusanTrenchCoat] at [@StudyDoorway]. Color draining; recognition; she knows that voice is Sophia. Cream trench collar, warm spill on cheek, evening hallway. Mouth closed / parted only in shock breath — no spoken lip-sync. No captions.
+[ANIMATION]: Hold with micro push. Eyes widen; freeze; tiny head shake of disbelief. Mouth closed for narrator. Last second still. Matched eyeline into the room SCREEN-RIGHT.
+[CONTINUITY]: Same doorway geography; recognition only — full visual betrayal waits for SET 1.5.
+[ACTION]: She recognizes Sophia’s voice.
+
+────────────────────────────────────────────────────────────────
+[SET: 1.5 - 10.0s | mode: promo | ROMANTASY | register: BETRAYED | mode: BETRAYAL | show the discovery, then hold on Susan’s devastated reaction | key_beat: Susan sees Jacob and Sophia | subject_focus: referent | coverage: OTS, reaction, medium]
+[VISUAL: In [@StudyCorner], SUSAN [@SusanTrenchCoat] looks through the doorway and sees SOPHIA [@SophiaShirt] in JACOB’s [@Jacob] oversized shirt on his lap, his arms around her waist; Susan remains apart at the threshold.]
+[CAMERA: OTS reveal → Susan crash reaction → locked medium on lovers.]
+[LIGHTING: Warm study lamp practical vs doorway shadow.]
 [ADDRESSEE: camera.]
 [VOICE TIMING: 0.0-7.83s | words: 30 | wpm: 229.9 | mode: promo]
 Narrator (shattered, controlled): It was Sophia. Her sister. Sophia was wearing one of Jacob's oversized shirts and sitting on his lap with his arms wrapped around her waist. Susan forgot how to breathe.
 [SFX: a breath catches; faint fabric movement inside the study.]
 
+[SHOT: 0.0-3.0s | OTS through the doorway | locked]
+[GENERATION]: Square 1:1 photoreal OTS from [@StudyDoorway] into [@StudyCorner] evening. Foreground: Susan’s cream-trench shoulder SCREEN-LEFT. Beyond: leather armchair, wooden bookshelf, decorative globe, side table, warm tungsten lamp SCREEN-RIGHT. SOPHIA [@SophiaShirt] in oversized white shirt sits on JACOB’s [@Jacob] lap; his arms wrapped around her waist. Intimate, damning, not explicit. Faces now readable. Shallow depth. No captions.
+[ANIMATION]: Locked / micro-hold reveal for 3.0s. Tiny fabric shift as Sophia settles against him. No kiss. No clap. Susan does not enter the room. Keep 180° line.
+[CONTINUITY]: First full couple reveal in the SCENE; wardrobe locks; lamp SCREEN-RIGHT; Susan outside.
+[ACTION]: Discovery image through her eyeline.
+
+[SHOT: 3.0-6.0s | close-up on Susan | crash push-in]
+[GENERATION]: Square 1:1 photoreal close-up reverse of SUSAN [@SusanTrenchCoat] outside the study door. Cream trench, color drained, eyes wet-glass, mouth closed for V.O., unable to move. Warm spill from study on one side of face, hallway shadow on the other. Matched eyeline SCREEN-RIGHT into the room. No captions.
+[ANIMATION]: Crash push-in over 3.0s. Breath catch; pupils shake; mouth sealed; body frozen. Do not scream. Do not enter. Handheld micro tremor OK.
+[CONTINUITY]: Matched reverse to previous OTS; same trench/face; devastation register.
+[ACTION]: Breathless reaction — she forgot how to breathe.
+
+[SHOT: 6.0-10.0s | medium on Jacob and Sophia | locked]
+[GENERATION]: Square 1:1 photoreal medium of [@StudyCorner]: SOPHIA [@SophiaShirt] on JACOB’s [@Jacob] lap in the leather armchair, oversized white shirt, his arms around her waist, warm lamp, bookshelf, globe. Smug intimate stillness. No explicit nudity. Susan not in this frame. Evening. No captions.
+[ANIMATION]: Locked hold 4.0s. Minimal motion — a breath, a thumb stroke at her waist, soft shared almost-laugh energy without big gestures. No forehead kiss yet (saved for 1.6). No shares dialogue.
+[CONTINUITY]: Identical staging/wardrobe/light to OTS reveal; Susan remains excluded from frame.
+[ACTION]: Damning tableau of the lovers.
+
+────────────────────────────────────────────────────────────────
 [SET: 1.6 - 10.0s | mode: promo | ROMANTASY | register: BETRAYED | mode: BETRAYAL | close on the lovers’ cruelty and Susan’s open wound | key_beat: Sophia wants Susan gone | subject_focus: speaker | coverage: close-up, reaction]
-[SHOT: 0.0-3.0s | close-up on Sophia | locked]
-[SHOT: 3.0-6.0s | reaction close-up on Susan | hold]
-[SHOT: 6.0-10.0s | close-up on Jacob | locked]
-[VISUAL: In [@StudyCorner], SOPHIA [@SophiaShirt] leans against JACOB [@Jacob] while SUSAN [@SusanTrenchCoat] stays frozen beyond the doorway, hearing their intimacy without entering. End on Jacob’s complicit tenderness — no shares plot in this SET.]
-[CAMERA: Opposed close singles isolate Sophia’s malice, Susan’s wound, and Jacob’s forehead kiss. Maintain doorway separation. Soft hold out.]
-[LIGHTING: Warm ambient study lamp practical against doorway shadow.]
+[VISUAL: In [@StudyCorner], SOPHIA [@SophiaShirt] leans against JACOB [@Jacob] while SUSAN [@SusanTrenchCoat] stays frozen beyond the doorway. End on Jacob’s complicit tenderness — no shares plot.]
+[CAMERA: Sophia CU → Susan reaction → Jacob CU forehead kiss.]
+[LIGHTING: Warm study lamp practical vs doorway shadow.]
 [ADDRESSEE: Jacob.]
 [VOICE TIMING: 0.0-7.2s | words: 27 | wpm: 225.0 | mode: promo]
 Sophia (hateful, pleased): "I wish Susan had never come back," she said, her voice dripping with hate. Jacob brushed a strand of hair behind her ear and kissed her forehead.
 [SFX: Sophia’s quiet laugh; the study door gives a faint creak.]
 
+[SHOT: 0.0-3.0s | close-up on Sophia | locked]
+[GENERATION]: Square 1:1 photoreal close-up of SOPHIA [@SophiaShirt] in [@StudyCorner] evening. Honey-blonde hair, oversized white shirt collar, cruel pleased expression, warm lamp key from SCREEN-RIGHT. Looking toward Jacob (off/near). Clear mouth for lip-sync on hate line. Intimate study bokeh (bookshelf/globe soft). No captions.
+[ANIMATION]: Locked. Sophia leans back slightly against Jacob’s chest and delivers “I wish Susan had never come back” with accurate natural lip-sync; hate in the eyes; minimal head bob. Do not cut mid-line.
+[CONTINUITY]: Same shirt/hair/lamp as SET 1.5; still on his lap.
+[ACTION]: Malice spoken to Jacob.
+
+[SHOT: 3.0-6.0s | reaction close-up on Susan | hold]
+[GENERATION]: Square 1:1 photoreal reaction close-up of SUSAN [@SusanTrenchCoat] still at [@StudyDoorway], cream trench, devastated open wound on her face as she hears Sophia wish her gone. Mouth closed (she does not speak). Warm spill + hallway shadow. Matched eyeline SCREEN-RIGHT. No captions.
+[ANIMATION]: Hold with micro tremor. Flinch on the hate line; eyes glass; breath shallow; mouth closed. Do not enter the study. Do not collapse to the floor.
+[CONTINUITY]: Same doorway reverse as 1.5; trench/face locked; separation preserved.
+[ACTION]: The wound lands on Susan.
+
+[SHOT: 6.0-10.0s | close-up on Jacob | locked]
+[GENERATION]: Square 1:1 photoreal close-up of JACOB [@Jacob] in [@StudyCorner]. Short styled brown hair, light stubble, smug tenderness. He brushes a strand of Sophia’s honey-blonde hair behind her ear and kisses her forehead — tasteful, intimate, not explicit. Warm lamp SCREEN-RIGHT. Sophia’s hair/shoulder edge in frame OK. No captions.
+[ANIMATION]: Locked / gentle micro push. Hand rises, brushes hair behind ear, forehead kiss, soft linger 1s. Mouth may murmur nothing audible. End soft hold. No passionate mouth-kiss. No shares talk.
+[CONTINUITY]: Same couple wardrobe/armchair/lamp as 1.5; complicit closeness; Susan still excluded.
+[ACTION]: Jacob seals the cruelty with tenderness.
+
 ════════════════════════════════════════════════════════════════
 QC CHECKLIST (PASS)
-[x] 6 SETs × 10.0s = 60.0s
-[x] Each SET: 3 SHOTS + VISUAL + CAMERA + LIGHTING + ADDRESSEE + VOICE TIMING + line + SFX
-[x] @tags present; locations only JacobsDriveway / StudyDoorway / StudyCorner
-[x] One key_beat per SET
-[x] VO word counts verified; WPM ≈ 225–230
-[x] No invented city/Ethan plate
-[x] Couple fully revealed only in SET 1.5
-[x] Susan kept apart from lovers in 1.5–1.6
-[x] No captions / logos / on-screen text
-[x] Shares bomb held for a later SCENE (not forced into this 60s)
+[x] 6 SETs × 10.0s = 60.0s · 18 SHOTS
+[x] Every SHOT has GENERATION + ANIMATION + CONTINUITY + ACTION (skill-style density)
+[x] Shared continuity block + negatives honored
+[x] @tags locked · no invented Ethan/city plate
+[x] Couple fully revealed only from SET 1.5
+[x] Susan kept apart in betrayal SETs
+[x] VO timing / word counts unchanged and verified
+[x] Output intent 1:1 / 720x720 · no captions/text/logos
+[x] Shares bomb still held for a later SCENE
