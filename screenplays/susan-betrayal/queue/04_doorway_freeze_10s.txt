@@ -1,0 +1,44 @@
+QUEUE_ID: 04
+TITLE: Who the Hell Is That — Doorway Freeze
+TARGET_DURATION_SEC: 10
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 4 of 6
+TRANSITION_IN: continue hallway motion from 03 then HALT
+TRANSITION_OUT: dissolve / push into 05 reveal
+
+CHARACTERS:
+- SusanTrenchCoat = late 20s, dark brown hair, warm olive skin, cream trench closed, smile dies into shock. SCREEN-LEFT at door.
+- SophiaShirt = heard first, then partial glimpse laughing through door gap — honey-blonde, oversized white shirt. Lip-sync on her line.
+- Jacob = partial presence deeper in study, not fully clear yet.
+
+LOCATION SEQUENCE:
+0-3s  SideHallway INTERIOR — hardwood, white walls, framed art, soft ceiling lights
+3-10s StudyDoorway INTERIOR — wooden study door slightly ajar; warm lamp spill through gap; glimpse of bookshelves, desk edge, leather chair
+
+SCREEN_DIRECTION / EYELINE:
+- Susan walking toward study SCREEN-RIGHT, then freezes
+- At door: Susan SCREEN-LEFT looking SCREEN-RIGHT into study (180° line LOCK for clips 05–06)
+- Warm table lamp spill from SCREEN-RIGHT through door gap
+
+DIALOGUE:
+SUSAN (V.O.): Who the hell is that?
+SOPHIA (on-camera, lip-sync): You're impossible.
+
+SFX / AUDIO CUE:
+Muffled woman's laugh off-screen; soft study room tone; silence drop under underscore when Susan recognizes the voice. Soft laugh on Sophia line.
+
+=== GENERATION PROMPT (use verbatim as visual core) ===
+Square 1:1 cinematic thriller beat. Hardwood hallway, white walls, framed artwork, soft warm ceiling lights, evening. Susan (SusanTrenchCoat) in cream trench freezes mid-stride as a woman's laugh echoes from ahead — shock replacing her smile. She reaches a wooden study door slightly open. Over-shoulder from hallway: Susan leans in SCREEN-LEFT; through the gap warm tungsten lamp spill, bookshelves, desk, leather chair; partial view of Sophia (SophiaShirt) in an oversized white shirt laughing. Then extreme close-up of Susan at the doorway, color draining from her face as she recognizes her sister's voice, cream trench collar visible, warm lamp spill on one cheek. Photoreal, tense short-form, shallow depth.
+
+=== ANIMATION PROMPT (use verbatim as motion core) ===
+0-2.5s she walks then camera HALTS with her; micro whip toward study door direction; smile dies; mouth closed for V.O. "Who the hell is that?" 2.5-7s creeping push through the door gap; Sophia laughs and says "You're impossible" with clear natural mouth movement / lip-sync; Susan's shoulder tense in foreground. 7-10s micro push extreme close-up on Susan; eyes widen; breath stops; no spoken line; subtle desaturation pulse as color drains. Do not cross to the far side of the door.
+
+CONTINUITY LOCK:
+Same trench/face as 03. Establish permanent eyeline: Susan left of door looking right. Warm lamp from right. Evening. Door stays only slightly open.
+
+NEGATIVES:
+no subtitles, no captions, no watermarks, no logos, no on-screen text, no full body reveal of the couple yet, no explicit content, no identity drift, no extra limbs, no flipped screen direction, no daytime
+
+ACTION BEAT:
+She hears Sophia, peeks, freezes as she recognizes the voice.

@@ -1,0 +1,46 @@
+QUEUE_ID: 01
+TITLE: Cold Open Hook
+TARGET_DURATION_SEC: 10
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 1 of 6
+TRANSITION_IN: hard open / fade from black
+TRANSITION_OUT: bright fade-white pop into 02
+
+CHARACTERS:
+- SusanTrenchCoat = Susan Drew, late 20s, elegant European features, shoulder-length dark brown hair, warm olive undertone skin. Cream double-breasted trench coat cinched at waist, collar up. Face composed then haunted. SAME FACE every clip.
+- SophiaShirt = mid-20s sister, honey-blonde loose hair, oversized white men's dress shirt, bare legs, cruel playful energy. Soft-focus only in this clip.
+- Jacob = early 30s, short styled brown hair, light stubble, expensive knit sweater. Soft-focus only in this clip.
+- Ethan = late 30s, sharp black tailored suit, dark hair, cold confidence. Distant silhouette only.
+
+LOCATION SEQUENCE (within 10s):
+0-4s  StudyCorner INTERIOR evening — leather armchair, wooden bookshelf, decorative globe, warm table lamp SCREEN-RIGHT
+4-7s  SideHallway INTERIOR — hardwood, white walls, framed art, soft ceiling lights
+7-10s CitySkyline EXTERIOR night — glass towers, cold blue city vs warm penthouse windows
+
+SCREEN_DIRECTION / EYELINE:
+- Susan silhouette SCREEN-LEFT in doorway looking SCREEN-RIGHT into study
+- Couple deeper SCREEN-RIGHT in armchair
+- City: Susan walks SCREEN-LEFT toward tower SCREEN-RIGHT
+- Key light: warm lamp from SCREEN-RIGHT in study; cold blue ambient in city
+
+DIALOGUE / VO (mouth CLOSED entire clip — narrator V.O.):
+SUSAN (V.O.): I caught my fiancé wrapped around my own sister. Then I found out my parents had been helping her all along. They thought my life was over. Instead, I walked to the city's most untouchable billionaire... and made the most reckless decision of my life.
+
+SFX / AUDIO CUE:
+Low pulse underscore; soft study room tone; then city night ambience under VO. No music lyrics. No on-screen text.
+
+=== GENERATION PROMPT (use verbatim as visual core) ===
+Cinematic short-form cold-open betrayal hook, square 1:1 frame. First: dim evening study — cream-trench silhouette of a woman (SusanTrenchCoat) standing in a slightly open wooden doorway SCREEN-LEFT, out-of-focus couple in a brown leather armchair SCREEN-RIGHT: younger woman in oversized white shirt (SophiaShirt) sitting on a man's lap (Jacob), his arms around her waist. Warm tungsten table lamp glow from SCREEN-RIGHT, wooden bookshelf, decorative globe, side table, shallow depth of field, soft vignette, slight chromatic edge for clickbait tension. Then cut-energy shift to Susan alone in a hardwood hallway with white walls and framed artwork, soft ceiling lights, composed face cracking into quiet devastation, cream silk blouse under trench identity lock. Then night city skyline with glass towers; Susan in cream tones walking toward a lit penthouse tower; distant figure of Ethan in a sharp black suit behind floor-to-ceiling glass. Cold blue city versus warm tower lights. Photoreal cinematic, punchy hook energy, no captions.
+
+=== ANIMATION PROMPT (use verbatim as motion core) ===
+0-4s slow push-in on doorway silhouette while the blurred couple stays soft in background; Susan mouth closed for V.O.; tension build without full face reveal of the couple. 4-7s subtle camera drift on Susan's face in hallway; eyes lower then harden; breath hitch; mouth closed. 7-10s slow rise revealing the tower as Susan walks left-to-right toward it; mouths closed; end on bright fade-white pop. Continuous emotional escalation from tease to resolve. Natural fabric and hair micro-movement only. No restart of actions.
+
+CONTINUITY LOCK:
+Same Susan face/hair/skin across all beats. Cream trench identity. Warm lamp direction SCREEN-RIGHT in study. Evening/night only. No wardrobe change mid-clip.
+
+NEGATIVES:
+no subtitles, no captions, no watermarks, no logos, no on-screen text, no duplicated cast likenesses, no extreme eyeball close-up, no disembodied or glowing eye, no gore, no explicit nudity, no lingerie visible, no extra limbs, no identity drift, no daytime, no cartoon, no split-screen collage
+
+ACTION BEAT:
+Cold-open hook: tease the affair, parents betrayal, then Susan walking toward Ethan.

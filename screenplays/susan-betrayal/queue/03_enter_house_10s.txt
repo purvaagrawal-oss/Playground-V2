@@ -1,0 +1,41 @@
+QUEUE_ID: 03
+TITLE: The Surprise Plan — Into the House
+TARGET_DURATION_SEC: 10
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 3 of 6
+TRANSITION_IN: dissolve from 02
+TRANSITION_OUT: hard emotional halt into 04 (micro whip energy)
+
+CHARACTERS:
+- SusanTrenchCoat ONLY = late 20s, dark brown shoulder-length hair, warm olive skin, cream double-breasted trench coat fully closed and cinched, private smile turning to blush then freeze. Identity locked to prior clips.
+
+LOCATION SEQUENCE:
+0-4s  JacobsDriveway EXTERIOR evening — brick house, porch lights, driveway
+4-10s SideHallway INTERIOR evening — hardwood floor, white walls, framed artwork, closed interior doors, soft warm ceiling lights
+
+SCREEN_DIRECTION / EYELINE:
+- On driveway looking down at coat, then toward front door SCREEN-RIGHT
+- Inside: walking down hallway toward study ahead SCREEN-RIGHT
+- Key light: porch warmth then soft overhead hallway tungsten
+
+DIALOGUE / VO (mouth CLOSED entire clip):
+SUSAN (V.O.): He's going to completely lose it when he sees me. Everyone expected me home tomorrow, not today. I wanted this to be a surprise. I'd throw open the door, drop the trench coat, and watch his jaw hit the floor.
+
+SFX / AUDIO CUE:
+Soft romantic underscore; door latch; soft footsteps on hardwood; quiet house; soft heartbeat under blush beat. Tasteful only.
+
+=== GENERATION PROMPT (use verbatim as visual core) ===
+Square 1:1 cinematic. Susan (SusanTrenchCoat) on the evening driveway of a modern brick suburban house, cream double-breasted trench coat wrapped fully closed around her body, private knowing smile, warm porch light catching the coat fabric — suggestive secret under the coat but coat NEVER opens, no lingerie shown. She walks to the front door and enters. Cut into hardwood hallway with white walls, framed artwork, closed doors, soft warm ceiling lights. She walks deeper toward Jacob's study, smiling to herself, then close-up blush as she imagines the surprise, trench still closed, eyes bright with anticipation. Photoreal intimate short-form, shallow depth, evening only.
+
+=== ANIMATION PROMPT (use verbatim as motion core) ===
+0-2.5s tilt down to the cinched trench belt then back to her smile; fingers lightly brush coat edge; mouth closed for V.O. 2.5-5s dolly forward as she opens the front door and steps inside; coat movement continuous. 5-8s steadicam follow beside/behind her down the hallway; trench trails; anticipatory walk. 8-10s slow push-in close-up; she bites a smile and blushes; eyes bright; mouth closed for V.O.; soft dreamlike glow. No undressing. No coat drop.
+
+CONTINUITY LOCK:
+Identical cream trench, hair, face as clip 02. Evening. Coat stays fully closed. Hallway architecture consistent for clips 04–06 approach.
+
+NEGATIVES:
+no subtitles, no captions, no watermarks, no logos, no on-screen text, no explicit nudity, no lingerie reveal, no coat opening, no other people, no identity drift, no extra limbs, no daytime, no comedy wink-to-camera
+
+ACTION BEAT:
+She savors the lingerie surprise plan (tasteful), enters early, heads for the study blushing.

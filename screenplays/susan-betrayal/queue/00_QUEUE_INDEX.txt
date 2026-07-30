@@ -1,0 +1,25 @@
+SUSAN BETRAYAL — 10s QUEUE INDEX
+Format: 1:1 / 720x720
+Total: 6 files × ~10s ≈ 60s
+Queue in numeric order. Each file is self-contained for generation.
+
+01_hook_10s.txt            Cold open — affair tease, parents, Ethan
+02_arrival_10s.txt         "I'm Susan Drew" + driveway surprise arrival
+03_enter_house_10s.txt     Lingerie plan (tasteful) → enter → hallway blush
+04_doorway_freeze_10s.txt  Hears woman → peek → "You're impossible" → freeze
+05_betrayal_reveal_10s.txt Sophia on Jacob's lap → hate line → "that idiot"
+06_shares_collapse_10s.txt Dump Susan → 80% shares → kiss → Susan collapses
+
+HOW TO QUEUE
+1. Attach character reference images for: SusanTrenchCoat, SophiaShirt, Jacob (Ethan optional for 01)
+2. Attach location refs if available (driveway / hallway / study)
+3. Paste GENERATION PROMPT + ANIMATION PROMPT from each file into Seedance / Blaze
+4. Duration: 10s each (or clamp 8–12). Aspect 1:1, 720p
+5. Lip-sync audio: Sophia + Jacob lines in 04–06; Susan V.O. mouths closed
+6. Stitch 01→06 with dissolves; bright fade-white between 01→02; soft blur fade on 06 end
+
+SHARED LOCKS (all files)
+- Susan face/hair identical; cream trench closed from 02 onward
+- Sophia = oversized white shirt; Jacob = knit/open collar
+- Study eyeline: Susan SCREEN-LEFT at door → couple SCREEN-RIGHT; lamp from SCREEN-RIGHT
+- Negatives: no captions/text/logos, no explicit nudity, no identity drift
