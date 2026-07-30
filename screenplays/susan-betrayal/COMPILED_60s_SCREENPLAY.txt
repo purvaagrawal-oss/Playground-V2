@@ -1,67 +1,258 @@
-SUSAN DREW BETRAYAL — COMPILED 60-SECOND SCREENPLAY
+SUSAN DREW BETRAYAL — COMPILED 60-SECOND SCREENPLAY (DETAILED)
 Format: 1:1 · 720x720 · Total runtime: 60 seconds · 6 equal beats × 10s
+Audio mode: Susan mostly V.O. (mouth closed); Sophia/Jacob lip-sync on spoken lines
+Tone: clickbait short-form betrayal drama — slow, tense, one beat per clip
 
-CHARACTERS
-SusanTrenchCoat — Susan Drew, late 20s, cream trench coat closed
-SophiaShirt — sister, oversized white shirt
-Jacob — fiancé
-Ethan — distant billionaire silhouette (beat 2 only)
+════════════════════════════════════════════════════════════════
+CHARACTER LOCKS (identical every time they appear)
+════════════════════════════════════════════════════════════════
+SusanTrenchCoat / SusanBase
+  Late 20s. Elegant European features. Shoulder-length dark brown hair.
+  Warm olive undertone skin. Soft natural makeup. Refined, composed beauty.
+  Wardrobe: cream double-breasted trench coat, cinched waist, collar neat, FULLY CLOSED.
+  Face/hair/skin must not drift between beats.
 
-────────────────────────────────────────
+SophiaShirt
+  Mid-20s. Sharper features. Honey-blonde hair loose over shoulders.
+  Wardrobe: one of Jacob’s oversized white button-down shirts, sleeves rolled, hem mid-thigh.
+  Bare legs. Intimate, disheveled, cruel-sweet energy.
+
+Jacob
+  Early 30s. Clean-cut. Short styled brown hair. Light stubble.
+  Wardrobe: expensive casual knit sweater / open collar.
+  Handsome, smug. Arms around Sophia’s waist when seated.
+
+Ethan (beat 2 only)
+  Late 30s. Sharp black tailored suit. Dark hair. Distant penthouse silhouette only.
+
+EYELINE / SCREEN DIRECTION BIBLE
+  Susan at door = SCREEN-LEFT, looking SCREEN-RIGHT into study.
+  Couple in armchair = deeper SCREEN-RIGHT.
+  Warm table lamp key light = SCREEN-RIGHT (study beats).
+  Porch lights warm (driveway). Hallway = soft overhead tungsten.
+  Never flip the 180° line once the doorway geography is set (beats 4–6).
+
+GLOBAL NEGATIVES
+  no subtitles, no captions, no watermarks, no logos, no on-screen text,
+  no name graphics, no explicit nudity, no lingerie reveal, no coat opening,
+  no gore, no extra limbs, no identity drift, no duplicated faces
+
+════════════════════════════════════════════════════════════════
 0:00–0:10 | BEAT 1 — HOOK TEASE
-Location: Study doorway / study corner, evening
-Camera: Slow push-in from doorway toward blurred couple
-Action: Susan silhouette SCREEN-LEFT. Soft-focus Sophia on Jacob’s lap SCREEN-RIGHT. Warm lamp SCREEN-RIGHT.
-SUSAN (V.O.): I caught my fiancé wrapped around my own sister. Then I found out my parents had been helping her all along.
-Hold last ~2s on the tease. No cut.
+════════════════════════════════════════════════════════════════
+Location: Study doorway → study corner INTERIOR, evening only
+Props: wooden door slightly ajar · brown leather armchair · wooden bookshelf · decorative globe · side table · warm tungsten table lamp
 
-────────────────────────────────────────
+TIMING
+  0:00–0:08  Susan V.O. over slow push-in
+  0:08–0:10  Picture-only hold on the blurred betrayal tease
+
+CAMERA
+  Single continuous slow push-in from doorway toward the armchair.
+  Shallow depth of field. Soft vignette. Slight chromatic edge for hook tension.
+  No cuts. No location change.
+
+STAGING
+  SusanTrenchCoat = cream-trench silhouette / partial face, SCREEN-LEFT in doorway.
+  SophiaShirt on Jacob’s lap, soft-focus, SCREEN-RIGHT; his arms around her waist.
+  Couple faces stay soft — tease, don’t fully reveal yet.
+  Warm lamp glow from SCREEN-RIGHT spills across the gap.
+
+DIALOGUE (Susan mouth CLOSED)
+  SUSAN (V.O.): I caught my fiancé wrapped around my own sister. Then I found out my parents had been helping her all along.
+
+SFX
+  Low pulse underscore · soft study room tone · no lyrics
+
+GENERATION PROMPT
+  Square 1:1 cinematic cold open. Evening study. Cream-trench silhouette of a woman (SusanTrenchCoat) standing in a slightly open wooden doorway SCREEN-LEFT. Deeper SCREEN-RIGHT, out-of-focus couple in a brown leather armchair: younger woman in an oversized white shirt (SophiaShirt) sitting on a man's lap (Jacob), his arms around her waist. Warm tungsten table lamp from SCREEN-RIGHT, wooden bookshelf, decorative globe, side table, shallow depth of field, soft vignette, slight chromatic edge. Couple faces remain soft. Photoreal, slow, tense short-form hook. No captions.
+
+ANIMATION PROMPT
+  One slow push-in for the full 10 seconds from the doorway toward the blurred couple. Susan mouth closed for V.O. Almost no other action. Hold the final 2 seconds nearly still on the tease. Do not cut. Do not introduce city, hallway, car, or other locations.
+
+════════════════════════════════════════════════════════════════
 0:10–0:20 | BEAT 2 — DECISION + TITLE
-Location: Night city skyline → porch-light face
-Camera: Slow rise on city walk; then one cut to face push-in
-Action: Susan walks toward lit penthouse; Ethan silhouette behind glass. Then Susan looks into camera.
-SUSAN (V.O.): They thought my life was over. Instead, I walked to the city's most untouchable billionaire... and made the most reckless decision of my life.
-SUSAN (V.O.): I'm Susan Drew, and this is my story.
-Hold eyes ~2s. No car yet.
+════════════════════════════════════════════════════════════════
+Location A (0:10–0:16): City skyline EXTERIOR night — glass towers, cold blue city light, warm penthouse windows
+Location B (0:16–0:20): Jacob’s driveway porch light EXTERIOR evening — Susan face only
 
-────────────────────────────────────────
+TIMING
+  0:10–0:16  City walk + Ethan V.O.
+  0:16–0:20  Face title beat + “I'm Susan Drew…” then hold eyes
+
+CAMERA
+  0:10–0:16: slow rise / gentle track following Susan left→right toward tower
+  0:16–0:20: one cut to medium close-up; very slow push-in on eyes
+
+STAGING
+  Susan in cream tones walking toward a lit penthouse.
+  Ethan = distant black-suit silhouette behind floor-to-ceiling glass only.
+  Then: Susan centered in warm porch light, looking into camera with quiet resolve after devastation.
+  No car. No entering house. No other people in the face beat.
+
+DIALOGUE (Susan mouth CLOSED)
+  SUSAN (V.O.): They thought my life was over. Instead, I walked to the city's most untouchable billionaire... and made the most reckless decision of my life.
+  SUSAN (V.O.): I'm Susan Drew, and this is my story.
+
+SFX
+  City night ambience under first lines · soft whoosh into face beat · no lyrics · no on-screen name/title graphics
+
+GENERATION PROMPT
+  Square 1:1. Night city glass towers; Susan in cream tones walking toward a lit penthouse; distant Ethan in a sharp black suit behind floor-to-ceiling glass. Cold blue city versus warm tower light. Then: Susan Drew medium close-up in warm porch light outside a brick suburban house, looking into camera with quiet resolve. Same face as Beat 1. No captions, no title cards. Photoreal cinematic.
+
+ANIMATION PROMPT
+  0–6s inside this beat: one slow rise as she walks toward the tower; mouths closed. Final 4s: cut once to her face; very slow push-in; mouth closed on “I'm Susan Drew...”; hold eyes at the end. No car door. No hallway. No second character in the face shot.
+
+════════════════════════════════════════════════════════════════
 0:20–0:30 | BEAT 3 — DRIVEWAY SURPRISE
-Location: Jacob’s driveway, evening blue hour
-Camera: Track with her from car to porch
-Action: SusanTrenchCoat steps out, smiles, glances at cinched coat (stays closed), walks to front door.
-SUSAN (V.O.): He's going to completely lose it when he sees me. Everyone expected me home tomorrow, not today. I wanted this to be a surprise.
-Last ~2s silent walk to the door. Do not enter hallway.
+════════════════════════════════════════════════════════════════
+Location: Jacob’s driveway EXTERIOR, evening blue hour ONLY
+Set: modern suburban brick façade · paved driveway · trimmed hedges · warm golden porch lights · quiet affluent street · soft blue-hour sky
 
-────────────────────────────────────────
+TIMING
+  0:20–0:23  Step out of car, soft smile, close door
+  0:23–0:26  Glance down at cinched trench; private smile
+  0:26–0:30  Slow walk to porch; last ~2s silent as hand reaches door
+
+CAMERA
+  Tracking with her from car toward porch SCREEN-RIGHT.
+  Warm porch key light. Unhurried.
+
+STAGING
+  SusanTrenchCoat only. Cream double-breasted trench fully closed and cinched.
+  Hopeful, anticipatory energy after two years abroad.
+  Coat glance is suggestive only — coat NEVER opens; no lingerie shown.
+  End at the front door. Do NOT enter interior yet.
+
+DIALOGUE (Susan mouth CLOSED)
+  SUSAN (V.O.): He's going to completely lose it when he sees me. Everyone expected me home tomorrow, not today. I wanted this to be a surprise.
+
+SFX
+  Soft car-door close · quiet suburb evening · soft romantic underscore · no lyrics
+
+GENERATION PROMPT
+  Square 1:1. Evening suburban brick house, paved driveway, trimmed hedges, warm porch lights, blue-hour sky. Susan (SusanTrenchCoat) in a cream double-breasted trench coat steps from a dark car, smiles with anticipation, glances once at her cinched coat (coat stays fully closed; no lingerie shown), then walks toward the front door. Same face as prior beats. Photoreal, warm, unhurried short-form arrival.
+
+ANIMATION PROMPT
+  First 3s: step out, soft smile, close car door. Next 3s: brief look down at coat belt, private smile; mouth closed for V.O. Final 4s: slow walk toward porch; coat sways naturally; end as her hand reaches the door. No interior. No other people. One continuous outdoor scene.
+
+════════════════════════════════════════════════════════════════
 0:30–0:40 | BEAT 4 — HOPE, THEN A VOICE
-Location: Side hallway → study door ajar
-Camera: Steadicam follow; halt; lean to gap
-Action: Susan walks smiling/blushing. Freezes at a woman’s laugh. Stops at slightly open study door. No clear couple reveal.
-SUSAN (V.O.): I'd throw open the door, drop the trench coat, and watch his jaw hit the floor.
-SOPHIA (O.S.): You're impossible.
+════════════════════════════════════════════════════════════════
+Location: Side hallway INTERIOR evening → stops at study doorway
+Set: hardwood floor · white walls · framed artwork · closed interior doors · soft warm ceiling lights
+Door: wooden study door slightly ajar; warm lamp spill through gap only
 
-────────────────────────────────────────
+TIMING
+  0:30–0:35  Hopeful walk + blush V.O.
+  0:35–0:37  Halt — smile dies — listen to off-screen laugh
+  0:37–0:40  Lean to door gap; Sophia’s line; no clear couple reveal
+
+CAMERA
+  Steadicam follow beside/behind her down the hallway.
+  Camera HALTS with her.
+  Creeping lean toward the gap. Do not push fully inside.
+
+STAGING
+  SusanTrenchCoat only on camera.
+  Soft smile / blush while imagining the surprise.
+  Freezes when she hears a woman.
+  Through the gap: warm lamp spill, bookshelf hint — NOT a clear view of Sophia/Jacob yet.
+  Establish permanent eyeline for Beats 5–6: Susan SCREEN-LEFT of door looking SCREEN-RIGHT.
+
+DIALOGUE
+  SUSAN (V.O., mouth closed): I'd throw open the door, drop the trench coat, and watch his jaw hit the floor.
+  SOPHIA (O.S. / through door): You're impossible.
+
+SFX
+  Soft footsteps on hardwood · quiet house · muffled woman’s laugh · soft heartbeat under freeze
+
+GENERATION PROMPT
+  Square 1:1. Hardwood hallway, white walls, framed art, soft warm ceiling lights, evening. Susan (SusanTrenchCoat) in cream trench walks toward a study, soft smile and blush as she imagines a surprise. She freezes mid-stride at a woman's laugh from ahead. She stops at a wooden door slightly open; warm tungsten lamp spill through the gap only. No clear view of anyone inside yet. Photoreal, tense turn from hope to dread.
+
+ANIMATION PROMPT
+  First 5s: slow steadicam follow; she smiles/blushes; mouth closed for V.O. Next 2s: halt; smile dies; listen. Final 3s: lean toward door gap; hear “You're impossible”; do not enter; do not show the couple clearly. One hallway progression only.
+
+════════════════════════════════════════════════════════════════
 0:40–0:50 | BEAT 5 — THE REVEAL
-Location: Study corner + doorway reverse
-Camera: Slow reveal push; reverse on Susan; hold
-Action: SophiaShirt on Jacob’s lap, his arms around her waist. Susan frozen at door SCREEN-LEFT. No kiss. No shares.
-SUSAN (V.O.): No. This can't be happening. My fiancé... with my own sister?
-SOPHIA: I wish Susan had never come back.
-JACOB: We'll just have to keep sneaking around.
+════════════════════════════════════════════════════════════════
+Location: Study corner INTERIOR evening + doorway reverse
+Set: leather armchair · wooden bookshelf · decorative globe · side table · warm ambient lamp SCREEN-RIGHT
 
-────────────────────────────────────────
+TIMING
+  0:40–0:44  Slow reveal push onto the couple — hold the damning image
+  0:44–0:46  Reverse on Susan — frozen, V.O.
+  0:46–0:50  Sophia hate line + Jacob sneaking line (lip-sync); minimal motion
+
+CAMERA
+  Slow reveal push into armchair.
+  Handheld micro-tremor reverse on Susan.
+  Gentle hold / slight arc on the couple for the lines.
+  Maintain 180°: Susan LEFT · couple RIGHT · lamp RIGHT.
+
+STAGING
+  KEY IMAGE: SophiaShirt on Jacob’s lap; his arms around her waist.
+  Intimate, damning, not explicit.
+  SusanTrenchCoat at doorway, cream trench, color draining, unable to move.
+  No clap. No shares talk. No kiss in this beat.
+
+DIALOGUE
+  SUSAN (V.O., mouth closed): No. This can't be happening. My fiancé... with my own sister?
+  SOPHIA (lip-sync): I wish Susan had never come back.
+  JACOB (lip-sync): We'll just have to keep sneaking around.
+
+SFX
+  Soft fabric rustle · intimate room tone · heartbeat thump on Susan reverse · low tension underscore
+
+GENERATION PROMPT
+  Square 1:1 cinematic betrayal reveal. Evening study corner: leather armchair beside wooden bookshelf, decorative globe, side table, warm tungsten lamp. Sophia (SophiaShirt) in oversized white shirt sits on Jacob's lap with his arms wrapped around her waist — intimate, damning. Intercut one close reverse of Susan (SusanTrenchCoat) at the doorway, cream trench, color draining from her face, unable to move, matched eyeline into the room. Photoreal. No explicit nudity. No captions.
+
+ANIMATION PROMPT
+  First 4s: slow reveal push onto the couple; hold the image. Next 2s: reverse on Susan; mouth closed for V.O.; almost frozen. Final 4s: Sophia leans back against Jacob's chest and delivers the hate line with clear lip-sync; Jacob answers the sneaking line with natural mouth movement; minimal other motion. No clap. No shares. No kiss.
+
+════════════════════════════════════════════════════════════════
 0:50–1:00 | BEAT 6 — SHARES + COLLAPSE
-Location: Same study corner → Susan doorway close-up
-Camera: Push on Sophia; brief kiss; dolly back / soft focus on Susan
-Action: Shares bomb. Tasteful kiss. Susan’s vision blurs. Fade out.
-SOPHIA: Dad is planning to transfer eighty percent of the company's shares to me.
-JACOB: No way.
-SOPHIA: Yes way. You don't have to stay with Susan.
-SUSAN (V.O.): Eighty percent? I gave that company everything... and she gets it?
+════════════════════════════════════════════════════════════════
+Location: Same study corner → Susan doorway extreme close-up
+Continuity: identical armchair, wardrobe, lamp side, eyeline as Beat 5
 
-────────────────────────────────────────
-CONTINUITY LOCKS
-• Cream trench closed from beat 3 onward · same Susan face all beats
-• Study eyeline: Susan SCREEN-LEFT → couple SCREEN-RIGHT · lamp SCREEN-RIGHT
-• No captions / on-screen text · no explicit nudity
-• Stitch: short dissolves · soft fade out at 1:00
+TIMING
+  0:50–0:54  Sophia shares line — slow push on proud face
+  0:54–0:56  “No way” / “Yes way…” then tasteful passionate kiss
+  0:56–1:00  Susan close-up — soft focus / dolly back — short collapse V.O. — fade out
+
+CAMERA
+  Slow push-in on Sophia.
+  Brief surge into the kiss.
+  Cut to Susan extreme close-up; dolly back as focus softens.
+  Gentle bright fade out at 1:00.
+
+STAGING
+  Sophia still on Jacob’s lap in oversized white shirt; proud, cruel delight.
+  Jacob shock → grabs her face → tasteful kiss (heated, not explicit).
+  Final image: SusanTrenchCoat at doorway, cream trench collar, tears forming, vision blurring.
+  Keep dialogue lean — do not restore the long “health/time/whole life” monologue.
+
+DIALOGUE
+  SOPHIA (lip-sync): Dad is planning to transfer eighty percent of the company's shares to me.
+  JACOB (lip-sync): No way.
+  SOPHIA (lip-sync): Yes way. You don't have to stay with Susan.
+  SUSAN (V.O., mouth closed): Eighty percent? I gave that company everything... and she gets it?
+
+SFX
+  Low stinger on shares · rising tension · tasteful kiss · soft ringing + low drone on Susan blur · gentle bright fade out
+
+GENERATION PROMPT
+  Square 1:1 cinematic gut-punch finale. Same warm evening study: leather armchair, wooden bookshelf, decorative globe, tungsten lamp SCREEN-RIGHT. Sophia (SophiaShirt) on Jacob's lap in oversized white shirt beams as she reveals an eighty-percent company share transfer. Brief shock on Jacob, then a tasteful passionate kiss. Final image: extreme close-up of Susan (SusanTrenchCoat) at the study doorway, cream trench, eyes filling, vision softening, warm lamp spill. No on-screen text. Photoreal emotional collapse ending.
+
+ANIMATION PROMPT
+  First 4s: Sophia delivers the shares line with clear lip-sync; slow push-in on her proud smile. Next 2s: “No way” / “Yes way...” exchange; he pulls her into a tasteful passionate kiss. Final 4s: cut to Susan extreme close-up; dolly back as focus softens and eyes fill; mouth closed for short V.O.; gentle bright fade out. No extra business. Keep lamp side and seating continuous with Beat 5.
+
+════════════════════════════════════════════════════════════════
+ASSEMBLY NOTES
+════════════════════════════════════════════════════════════════
+Order: Beat 1 → 2 → 3 → 4 → 5 → 6
+Transitions: short dissolves between beats · soft fade out at 1:00
+Each beat = ~10s picture window · do not overload with extra dialogue or side plots
+Omitted on purpose for pacing: clap / “dump my freak of a sister” beat; long company monologue
+End state: devastated Susan — parents/Ethan revenge arc can continue later
