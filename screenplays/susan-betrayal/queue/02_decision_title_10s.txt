@@ -1,0 +1,43 @@
+QUEUE_ID: 02
+TITLE: Hook — Reckless Decision + Who I Am
+TARGET_DURATION_SEC: 10
+TIMELINE: 0:10–0:20
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 2 of 6
+PACE RULE: Two simple beats only (city resolve, then face title). No arrival car yet.
+
+CHARACTERS:
+- SusanBase — same woman as SusanTrenchCoat face lock; cream tones
+- Ethan — distant silhouette in black suit behind glass only
+
+LOCATION:
+0–6s  CitySkyline EXTERIOR night — glass towers, cold blue city, warm penthouse windows
+6–10s JacobsDriveway EXTERIOR evening — Susan face in porch light (title beat only; no walking to door yet)
+
+SCREEN_DIRECTION:
+Susan walks left → right toward tower. Then centered looking into camera.
+
+DIALOGUE (mouth CLOSED — V.O.):
+SUSAN (V.O.): They thought my life was over. Instead, I walked to the city's most untouchable billionaire... and made the most reckless decision of my life.
+SUSAN (V.O.): I'm Susan Drew, and this is my story.
+
+Spoken budget: lines finish by ~8s. Hold face ~2s after.
+
+SFX:
+City night ambience under first lines. Soft whoosh into face beat. No on-screen text / no name graphics.
+
+=== GENERATION PROMPT ===
+Square 1:1. Night city glass towers; Susan in cream tones walking toward a lit penthouse; distant Ethan in a sharp black suit behind floor-to-ceiling glass. Cold blue city vs warm tower light. Then: Susan Drew medium close-up in warm porch light outside a brick suburban house, looking into camera with quiet resolve. No captions, no title cards. Photoreal cinematic.
+
+=== ANIMATION PROMPT ===
+0–6s: one slow rise / gentle track as she walks toward the tower; mouths closed. 6–10s: cut once to her face; very slow push-in; mouth closed on “I'm Susan Drew...”; hold eyes at the end. No car. No entering house. No other characters in the face beat.
+
+CONTINUITY:
+Same Susan face as clip 01. Evening / night only.
+
+NEGATIVES:
+no subtitles, no captions, no logos, no on-screen text, no name graphics, no car door, no hallway, no explicit content, no identity drift
+
+ACTION BEAT (only this):
+Ethan decision V.O., then spoken identity close-up.

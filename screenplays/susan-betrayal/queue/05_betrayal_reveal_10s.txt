@@ -1,46 +1,43 @@
 QUEUE_ID: 05
-TITLE: The Reveal — Sister on His Lap
+TITLE: Reveal — Sister on His Lap
 TARGET_DURATION_SEC: 10
+TIMELINE: 0:40–0:50
 ASPECT: 1:1
 RESOLUTION: 720x720
 PART: 5 of 6
-TRANSITION_IN: push from doorway gap of 04
-TRANSITION_OUT: dissolve into 06 shares bomb
+PACE RULE: One reveal image + two short lines. No shares talk. No kiss. No clap.
 
 CHARACTERS:
-- SophiaShirt = mid-20s, honey-blonde loose hair, oversized white button-down (sleeves rolled, hem mid-thigh), bare legs, sitting on Jacob's lap. Hate under sweetness. Lip-sync her lines.
-- Jacob = early 30s, short styled brown hair, light stubble, expensive casual knit / open collar, arms around Sophia's waist. Smug. Lip-sync his line.
-- SusanTrenchCoat = reverse close-ups only, SCREEN-LEFT at doorway, devastated, mouth closed for V.O.
+- SophiaShirt — oversized white shirt, on Jacob's lap
+- Jacob — arms around her waist
+- SusanTrenchCoat — brief reverse only (devastated, silent / V.O.)
 
 LOCATION:
-StudyCorner INTERIOR evening — brown leather armchair beside wooden bookshelf, decorative globe, side table, warm ambient table-lamp lighting SCREEN-RIGHT. Intimate study corner.
-Intercut StudyDoorway for Susan reverse.
+StudyCorner INTERIOR evening — leather armchair, bookshelf, globe, warm lamp SCREEN-RIGHT
+Brief reverse: StudyDoorway Susan SCREEN-LEFT
 
-SCREEN_DIRECTION / EYELINE (CRITICAL):
-- Couple in armchair deeper SCREEN-RIGHT
-- Susan POV / reverse: SCREEN-LEFT looking SCREEN-RIGHT (matched 180° to clip 04)
-- Jacob's arms around Sophia's waist the whole time
-- Key light: warm lamp SCREEN-RIGHT, consistent
+SCREEN_DIRECTION:
+Couple SCREEN-RIGHT. Susan SCREEN-LEFT looking in. 180° line locked. Lamp SCREEN-RIGHT.
 
 DIALOGUE:
-SUSAN (V.O.): No. This can't be happening. My fiancé... with my own sister?
+SUSAN (V.O., mouth closed): No. This can't be happening. My fiancé... with my own sister?
 SOPHIA (lip-sync): I wish Susan had never come back.
-JACOB (lip-sync): We'll just have to keep sneaking around. That idiot will never figure it out though.
+JACOB (lip-sync): We'll just have to keep sneaking around.
 
-SFX / AUDIO CUE:
-Soft fabric rustle; intimate room tone; heartbeat thump on Susan reverse; soft forehead-kiss; both laugh after Jacob's line. Low tension underscore.
+SFX:
+Soft fabric. Heartbeat on Susan reverse. Intimate room tone. Low underscore.
 
-=== GENERATION PROMPT (use verbatim as visual core) ===
-Square 1:1 cinematic betrayal reveal. Study corner evening: leather armchair beside wooden bookshelf, decorative globe, side table, warm tungsten lamp. KEY IMAGE: Sophia (SophiaShirt) in oversized white shirt sitting on Jacob's lap, his arms wrapped around her waist — intimate, damning, Susan's unseen POV from the doorway. Sophia leans back against Jacob's chest, expression turning cold with hate as she speaks. Jacob brushes a strand of hair behind her ear and kisses her forehead, smug intimacy. Intercut close-up reverse of Susan (SusanTrenchCoat) outside the study door, cream trench, devastated, unable to move, warm spill light on her face, matched eyeline into the room. Photoreal, shallow depth, no explicit nudity, punchy short-form emotional violence.
+=== GENERATION PROMPT ===
+Square 1:1. Evening study corner: leather armchair, wooden bookshelf, decorative globe, warm lamp. Sophia (SophiaShirt) in oversized white shirt sits on Jacob's lap; his arms around her waist. Intimate, damning. Intercut one close reverse of Susan (SusanTrenchCoat) at the doorway, cream trench, color draining, unable to move. Photoreal. No explicit nudity. No captions.
 
-=== ANIMATION PROMPT (use verbatim as motion core) ===
-0-3s slow reveal push into the couple; Sophia settles against him; Jacob's hands rest on her waist. 3-5s handheld micro tremor reverse on Susan; she wants to scream but freezes; mouth closed for V.O. 5-7.5s slow arc around armchair; Sophia leans back and delivers "I wish Susan had never come back" with clear lip-sync; hate in eyes. 7.5-10s gentle push as Jacob kisses her forehead then speaks his sneaking-around line with natural mouth movement; both laugh. Maintain screen direction and lamp side entire clip.
+=== ANIMATION PROMPT ===
+0–4s: slow reveal push onto the couple; hold the image. 4–6s: reverse on Susan; mouth closed for V.O.; almost frozen. 6–10s: Sophia leans back against Jacob and says her hate line (lip-sync); Jacob answers the sneaking line (lip-sync); minimal other motion. No clap. No shares. No kiss.
 
-CONTINUITY LOCK:
-SophiaShirt + Jacob wardrobe identical to glimpses in 04 and continuing into 06. Same armchair, bookshelf, globe, lamp. Susan trench identical. Never flip eyeline.
+CONTINUITY:
+Same armchair / lamp / wardrobe for clip 06. Eyeline unchanged from 04.
 
 NEGATIVES:
-no subtitles, no captions, no watermarks, no logos, no on-screen text, no explicit sex, no nudity, no lingerie focus, no gore, no duplicated faces, no extra limbs, no identity drift, no screen-direction flip, no daylight
+no subtitles, no captions, no logos, no on-screen text, no kiss, no clap, no share talk, no explicit sex, no identity drift, no screen-direction flip
 
-ACTION BEAT:
-Full betrayal image; Sophia's hate confession; Jacob calls Susan an idiot while they laugh.
+ACTION BEAT (only this):
+See the betrayal. Hear Sophia's hate. Hear Jacob choose secrecy.

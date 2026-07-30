@@ -1,48 +1,46 @@
 QUEUE_ID: 06
-TITLE: Eighty Percent — World Collapse
+TITLE: Shares Bomb — Collapse
 TARGET_DURATION_SEC: 10
+TIMELINE: 0:50–1:00
 ASPECT: 1:1
 RESOLUTION: 720x720
 PART: 6 of 6
-TRANSITION_IN: dissolve from 05
-TRANSITION_OUT: gentle bright fade / soft blur to black (end of act)
+PACE RULE: One news drop, one kiss, one Susan collapse. Trim V.O. so it fits without rush.
 
 CHARACTERS:
-- SophiaShirt = same honey-blonde, oversized white shirt, on Jacob's lap, cruel delight then proud beam. Lip-sync.
-- Jacob = same face/wardrobe, holds her, shock then passion. Lip-sync.
-- SusanTrenchCoat = doorway extreme close-up end beat, cream trench, tears forming, vision blurs, mouth closed for long V.O.
+- SophiaShirt — proud, excited; same oversized white shirt
+- Jacob — shock then kiss; same wardrobe
+- SusanTrenchCoat — final close-up only
 
 LOCATION:
-StudyCorner INTERIOR evening — same leather armchair, bookshelf, globe, warm lamp SCREEN-RIGHT.
-End on StudyDoorway — Susan SCREEN-LEFT, lamp spill from study SCREEN-RIGHT.
+StudyCorner same as 05 for dialogue/kiss
+Final 3s: StudyDoorway Susan close-up
 
-SCREEN_DIRECTION / EYELINE:
-- Keep 04/05 geography: couple SCREEN-RIGHT, Susan SCREEN-LEFT
-- Warm lamp SCREEN-RIGHT unchanged
-- 180° line unbroken
+SCREEN_DIRECTION:
+Same as 05 — couple SCREEN-RIGHT, Susan SCREEN-LEFT, lamp SCREEN-RIGHT
 
-DIALOGUE:
-SOPHIA (lip-sync): I have something to tell you! You can finally dump my freak of a sister. She won't be any use to you anymore.
-JACOB (lip-sync): What do you mean?
+DIALOGUE (keep lean):
 SOPHIA (lip-sync): Dad is planning to transfer eighty percent of the company's shares to me.
 JACOB (lip-sync): No way.
-SOPHIA (lip-sync): Yes way. You don't have to pretend anymore. You don't have to stay with Susan.
-SUSAN (V.O., mouth closed): Eighty percent? Dad is giving Sophia eighty percent of the company? Why? I gave that company everything. My health. My time. My whole life. Sophia hasn't done a damn thing, and she gets it?
+SOPHIA (lip-sync): Yes way. You don't have to stay with Susan.
+SUSAN (V.O., mouth closed): Eighty percent? I gave that company everything... and she gets it?
 
-SFX / AUDIO CUE:
-Soft clap; rising tension sting on shares line; passionate kiss (tasteful); world-collapse low drone + soft ringing on Susan's blur; gentle bright fade out.
+Do NOT also play the longer “health / time / whole life / hasn't done a damn thing” full monologue in this clip — too many words for 10s. Keep the short collapse line above.
 
-=== GENERATION PROMPT (use verbatim as visual core) ===
-Square 1:1 cinematic gut-punch finale. Same warm evening study corner: leather armchair, wooden bookshelf, decorative globe, tungsten lamp. Sophia (SophiaShirt) on Jacob's lap in oversized white shirt claps with cruel delight, then beams proudly as she reveals an eighty-percent company share transfer. Jacob raises an eyebrow in shock, then grabs her face and kisses her passionately — tasteful, heated, not explicit. Cut to extreme close-up of Susan (SusanTrenchCoat) at the study doorway as her vision blurs, cream trench collar, tears forming, warm lamp spill, devastation and betrayal. No on-screen text. Photoreal short-form, shallow depth, emotional collapse ending.
+SFX:
+Low stinger on shares. Tasteful kiss. Soft ringing + low drone on Susan blur. Gentle bright fade out.
 
-=== ANIMATION PROMPT (use verbatim as motion core) ===
-0-2.5s Sophia claps and leans forward delivering dump-the-sister lines with clear lip-sync; Jacob listens. 2.5-3.5s Jacob close-up eyebrow raise; "What do you mean?" lip-sync. 3.5-6s slow push-in on Sophia's proud smile; shares line lip-sync; soft highlight bloom. 6-8s rapid exchange "No way" / "Yes way..."; he pulls her into a passionate kiss; surge push. 8-10s dolly back on Susan extreme close-up as focus softens and eyes fill; mouth closed for long V.O.; gentle bright fade out. Keep lamp side and seating continuous with clip 05.
+=== GENERATION PROMPT ===
+Square 1:1. Same warm evening study: leather armchair, bookshelf, globe, lamp. Sophia (SophiaShirt) on Jacob's lap beams as she tells him about an eighty-percent share transfer. Brief shock on Jacob, then a tasteful passionate kiss. Final image: extreme close-up of Susan (SusanTrenchCoat) at the doorway, cream trench, eyes filling, vision softening. No on-screen text. Photoreal gut-punch ending.
 
-CONTINUITY LOCK:
-Identical armchair staging, wardrobe, faces, lamp direction as clip 05. Susan trench identical. End state = devastated Susan (sets up parents/Ethan continuation later).
+=== ANIMATION PROMPT ===
+0–4s: Sophia delivers the shares line (lip-sync); slow push-in on her proud face. 4–6s: “No way” / “Yes way...” exchange; he kisses her (tasteful). 6–10s: cut to Susan close-up; dolly back / soft focus; mouth closed for short V.O.; gentle fade out. No extra business. No second location beyond doorway reverse.
+
+CONTINUITY:
+Identical staging/wardrobe/light to clip 05. End on devastated Susan.
 
 NEGATIVES:
-no subtitles, no captions, no watermarks, no logos, no on-screen text, no percentage graphics, no explicit sex, no nudity, no gore, no identity drift, no extra limbs, no screen-direction flip, no comedy tone
+no subtitles, no captions, no logos, no on-screen text, no percentage graphics, no explicit sex, no long crowded dialogue, no identity drift, no screen-direction flip
 
-ACTION BEAT:
-Sophia says Jacob can dump Susan; drops 80% shares bomb; they kiss; Susan's world collapses.
+ACTION BEAT (only this):
+Shares bomb → kiss → Susan collapses.

@@ -1,0 +1,40 @@
+QUEUE_ID: 03
+TITLE: Arrival — The Surprise
+TARGET_DURATION_SEC: 10
+TIMELINE: 0:20–0:30
+ASPECT: 1:1
+RESOLUTION: 720x720
+PART: 3 of 6
+PACE RULE: Driveway only. Arrive, glance at coat, walk to door. Do not enter hallway yet.
+
+CHARACTERS:
+- SusanTrenchCoat ONLY — cream double-breasted trench fully closed and cinched, hopeful smile
+
+LOCATION (single):
+JacobsDriveway EXTERIOR evening blue hour — brick façade, paved driveway, trimmed hedges, warm porch lights
+
+SCREEN_DIRECTION:
+Car → walk toward porch SCREEN-RIGHT. Key light = porch.
+
+DIALOGUE (mouth CLOSED — V.O.):
+SUSAN (V.O.): He's going to completely lose it when he sees me. Everyone expected me home tomorrow, not today. I wanted this to be a surprise.
+
+Spoken budget: ~8s. Last ~2s silent walk to the door.
+
+SFX:
+Car door soft close. Quiet suburb evening. Soft romantic underscore. No lyrics.
+
+=== GENERATION PROMPT ===
+Square 1:1. Evening suburban brick house, paved driveway, trimmed hedges, warm porch lights, blue-hour sky. Susan (SusanTrenchCoat) in a cream double-breasted trench coat steps from a car, smiles with anticipation, glances once at her cinched coat (coat stays fully closed; no lingerie shown), then walks toward the front door. Photoreal, warm, unhurried short-form arrival.
+
+=== ANIMATION PROMPT ===
+0–3s: step out, soft smile, close car door. 3–6s: brief look down at coat belt, private smile; mouth closed for V.O. 6–10s: slow walk toward porch; coat sways naturally; end as her hand reaches the door. No interior. No other people. One continuous outdoor scene.
+
+CONTINUITY:
+Same face as 01–02. Cream trench locked for all later clips. Evening porch light.
+
+NEGATIVES:
+no subtitles, no captions, no logos, no on-screen text, no coat opening, no lingerie, no interior hallway, no other characters, no identity drift
+
+ACTION BEAT (only this):
+She arrives early as a surprise and approaches the door.

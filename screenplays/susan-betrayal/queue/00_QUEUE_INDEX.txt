@@ -1,25 +1,21 @@
-SUSAN BETRAYAL — 10s QUEUE INDEX
+SUSAN BETRAYAL — 60s QUEUE (6 × 10s, evenly spaced)
 Format: 1:1 / 720x720
-Total: 6 files × ~10s ≈ 60s
-Queue in numeric order. Each file is self-contained for generation.
+Rule: one clear beat per clip. Do not overload.
 
-01_hook_10s.txt            Cold open — affair tease, parents, Ethan
-02_arrival_10s.txt         "I'm Susan Drew" + driveway surprise arrival
-03_enter_house_10s.txt     Lingerie plan (tasteful) → enter → hallway blush
-04_doorway_freeze_10s.txt  Hears woman → peek → "You're impossible" → freeze
-05_betrayal_reveal_10s.txt Sophia on Jacob's lap → hate line → "that idiot"
-06_shares_collapse_10s.txt Dump Susan → 80% shares → kiss → Susan collapses
+TIMEBASE
+0:00–0:10  01_hook_10s.txt            Hook tease — affair + parents V.O. (study doorway only)
+0:10–0:20  02_arrival_10s.txt         Ethan decision V.O. + “I'm Susan Drew” face
+0:20–0:30  03_enter_house_10s.txt     Driveway surprise arrival (no interior yet)
+0:30–0:40  04_doorway_freeze_10s.txt  Hallway hope → hears Sophia → freeze at door
+0:40–0:50  05_betrayal_reveal_10s.txt See them + hate line + sneaking line (no shares/kiss)
+0:50–1:00  06_shares_collapse_10s.txt Shares bomb → kiss → Susan short collapse V.O.
 
-HOW TO QUEUE
-1. Attach character reference images for: SusanTrenchCoat, SophiaShirt, Jacob (Ethan optional for 01)
-2. Attach location refs if available (driveway / hallway / study)
-3. Paste GENERATION PROMPT + ANIMATION PROMPT from each file into Seedance / Blaze
-4. Duration: 10s each (or clamp 8–12). Aspect 1:1, 720p
-5. Lip-sync audio: Sophia + Jacob lines in 04–06; Susan V.O. mouths closed
-6. Stitch 01→06 with dissolves; bright fade-white between 01→02; soft blur fade on 06 end
+PACING NOTES
+- Each clip ≈ 1 location (02 has one soft cut: city → face)
+- ~1 slow camera move per clip
+- Spoken lines capped so picture can breathe (~2s hold at ends)
+- Longer original monologue trimmed in 06 so it fits 10s
+- “Dump my freak of a sister” clap beat omitted to avoid crowding 05/06
 
-SHARED LOCKS (all files)
-- Susan face/hair identical; cream trench closed from 02 onward
-- Sophia = oversized white shirt; Jacob = knit/open collar
-- Study eyeline: Susan SCREEN-LEFT at door → couple SCREEN-RIGHT; lamp from SCREEN-RIGHT
-- Negatives: no captions/text/logos, no explicit nudity, no identity drift
+QUEUE ORDER: 01 → 02 → 03 → 04 → 05 → 06
+STITCH: short dissolves; soft fade out on 06
